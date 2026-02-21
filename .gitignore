@@ -1,0 +1,30 @@
+# Local AI Weights and Models
+*.pt
+*.pth
+*.onnx
+*.safetensors
+models/
+
+# ChromaDB storage (too large for GH, better to re-ingest)
+data/chroma_db/
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Environment Variables
+.env
+
+# Uploaded User Data
+data/uploads/
+data/output/
+
+# OS Files
+.DS_Store
+Thumbs.db

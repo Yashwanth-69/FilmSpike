@@ -1,0 +1,631 @@
+post_id,subreddit,comment_text,upvotes,timestamp,comment_length,movie_reference,true_cluster_id,hdbscan_cluster_id
+p_1266,r/movies,"I don't care about the plot holes, Pacific Rim is pure hype. Imho.",297,1771407000,66,Pacific Rim,2,-1
+p_1093,r/movies,"I don't care about the plot holes, Transformers is pure hype. 🤷‍♂️",27,1769139306,66,Transformers,2,26
+p_1383,r/movies,"I wish they spent more time on the characters in Pacific Rim, their backstory was heartbreaking. Totally agree.",38,1769728721,111,Pacific Rim,4,8
+p_1253,r/movies,Pacific Rim does a surprisingly good job of integrating the sci-fi tech into a believable near-future economy. Imho.,72,1770254569,116,Pacific Rim,1,29
+p_1255,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on.",129,1771597210,108,Pacific Rim,1,6
+p_1579,r/movies,That final sacrifice scene in Godzilla 2000 broke me emotionally. 🤷‍♂️,324,1769734597,70,Godzilla 2000,4,10
+p_1277,r/movies,"I don't care about the plot holes, Pacific Rim is pure hype. Imho.",219,1769499447,66,Pacific Rim,2,-1
+p_1136,r/movies,when the giant robot did the thing in Transformers I literally ascended 💀 :),6,1770102207,76,Transformers,3,5
+p_1115,r/movies,when the giant robot did the thing in Transformers I literally ascended 💀,5,1770290687,73,Transformers,3,5
+p_1526,r/movies,I rate Godzilla 2000 5/7 perfect score.,10,1769459993,39,Godzilla 2000,3,18
+p_1592,r/movies,The romance subplot in Godzilla 2000 was surprisingly tender amidst all the chaos. :),339,1769106776,85,Godzilla 2000,4,15
+p_1396,r/movies,The romance subplot in Pacific Rim was surprisingly tender amidst all the chaos. :),229,1769466490,83,Pacific Rim,4,15
+p_1142,r/movies,POV: you're trying to watch Transformers but the plot is missing.,9,1771241916,65,Transformers,3,31
+p_1254,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on.",392,1770570462,108,Pacific Rim,1,6
+p_1200,r/funny,Did you guys hear about the stock market crash? anyone?,-29,1770424069,55,,0,-1
+p_1428,r/movies,The world-building in Godzilla 2000 is genuinely fascinating if you look past the surface. 🤷‍♂️,369,1769324739,95,Godzilla 2000,1,14
+p_1547,r/movies,me watching Godzilla 2000: haha robot go brrrrr 😂 Totally agree.,11,1771122133,64,Godzilla 2000,3,24
+p_1179,r/movies,That final sacrifice scene in Transformers broke me emotionally. 🤷‍♂️,467,1771009014,69,Transformers,4,16
+p_1363,r/movies,The actor's chemistry in Pacific Rim was incredible. You could really feel their shared pain. Totally agree.,190,1770308671,108,Pacific Rim,4,-1
+p_1222,r/movies,I appreciated how Pacific Rim handled the scale and physics of the mecha designs.,496,1770107079,81,Pacific Rim,1,4
+p_1305,r/movies,"Watching Pacific Rim makes me want to punch a wall, the soundtrack goes so hard. Just saying.",475,1769733278,93,Pacific Rim,2,19
+p_1122,r/movies,I rate Transformers 5/7 perfect score.,33,1769297840,38,Transformers,3,18
+p_1381,r/movies,That final sacrifice scene in Pacific Rim broke me emotionally. Imho.,8,1770634640,69,Pacific Rim,4,16
+p_1328,r/movies,is Pacific Rim a jojo reference??? Just saying.,44,1769064619,47,Pacific Rim,3,8
+p_1464,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on. Totally agree.",343,1769649278,123,Godzilla 2000,1,6
+p_1156,r/movies,That final sacrifice scene in Transformers broke me emotionally. :),37,1770048307,67,Transformers,4,16
+p_1461,r/movies,"The CGI holds up because the director understood weight, mass, and practical lighting. 🤷‍♂️",173,1770526506,91,Godzilla 2000,1,0
+p_1534,r/movies,POV: you're trying to watch Godzilla 2000 but the plot is missing. :),24,1770058966,69,Godzilla 2000,3,31
+p_1406,r/movies,I honestly teared up during Pacific Rim. The relationship between the pilots is the emotional core.,374,1771226979,99,Pacific Rim,4,28
+p_1107,r/movies,"tbh Transformers was mid, they should have just used a nuke. 🤷‍♂️",16,1769475599,65,Transformers,3,-1
+p_1249,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on. Just saying.",327,1770292641,121,Pacific Rim,1,6
+p_1515,r/movies,"Watching Godzilla 2000 makes me want to punch a wall, the soundtrack goes so hard. Totally agree.",185,1769710378,97,Godzilla 2000,2,19
+p_1563,r/movies,I rate Godzilla 2000 5/7 perfect score. Imho.,-41,1771553133,45,Godzilla 2000,3,18
+p_1351,r/movies,I rate Pacific Rim 5/7 perfect score. Just saying.,24,1770573282,50,Pacific Rim,3,18
+p_1089,r/movies,Giant robots fighting giant monsters. What more do you want from Transformers?? Imho.,450,1769910921,85,Transformers,2,9
+p_1442,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on. Just saying.",59,1771516876,121,Godzilla 2000,1,6
+p_1272,r/movies,"Watching Pacific Rim makes me want to punch a wall, the soundtrack goes so hard.",479,1770093966,80,Pacific Rim,2,19
+p_1512,r/movies,the action sequences in Godzilla 2000 are absolutely goated. 🤷‍♂️,100,1769694532,65,Godzilla 2000,2,30
+p_1301,r/movies,"I don't care about the plot holes, Pacific Rim is pure hype.",351,1770662477,60,Pacific Rim,2,-1
+p_1203,r/AskReddit,Did you guys hear about the stock market crash? sigh.,-17,1770451106,53,,0,-1
+p_1550,r/movies,this says a lot about society. Just saying.,8,1770736384,43,Godzilla 2000,3,3
+p_1172,r/movies,"People talk about the action, but Transformers is really a story about trauma and finding human connection. :)",350,1770007522,110,Transformers,4,21
+p_1331,r/movies,is Pacific Rim a jojo reference??? Just saying.,8,1769395974,47,Pacific Rim,3,8
+p_1402,r/movies,The actor's chemistry in Pacific Rim was incredible. You could really feel their shared pain. :),185,1769987514,96,Pacific Rim,4,-1
+p_1511,r/movies,the action sequences in Godzilla 2000 are absolutely goated. :),210,1769778420,63,Godzilla 2000,2,30
+p_1610,r/movies,That final sacrifice scene in Godzilla 2000 broke me emotionally. 🤷‍♂️,117,1771315300,70,Godzilla 2000,4,10
+p_1545,r/movies,this says a lot about society.,-2,1771283445,30,Godzilla 2000,3,3
+p_1206,r/funny,First! sigh.,-14,1770274368,12,,0,25
+p_1108,r/movies,me watching Transformers: haha robot go brrrrr 😂 🤷‍♂️,-37,1769151432,53,Transformers,3,24
+p_1414,r/funny,This is just a test to see if my Reddit bot is working. Beep boop. sigh.,-42,1769736551,72,,0,24
+p_1588,r/movies,The actor's chemistry in Godzilla 2000 was incredible. You could really feel their shared pain. 🤷‍♂️,473,1769974304,100,Godzilla 2000,4,22
+p_1537,r/movies,I rate Godzilla 2000 5/7 perfect score. 🤷‍♂️,-45,1769405243,44,Godzilla 2000,3,18
+p_1523,r/movies,when the giant robot did the thing in Godzilla 2000 I literally ascended 💀 🤷‍♂️,-30,1769485706,79,Godzilla 2000,3,25
+p_1469,r/movies,I appreciated how Godzilla 2000 handled the scale and physics of the mecha designs. :),349,1770684987,86,Godzilla 2000,1,-1
+p_1466,r/movies,The world-building in Godzilla 2000 is genuinely fascinating if you look past the surface. :),496,1770679035,93,Godzilla 2000,1,14
+p_1132,r/movies,me watching Transformers: haha robot go brrrrr 😂 Totally agree.,33,1769230170,63,Transformers,3,24
+p_1445,r/movies,"The CGI holds up because the director understood weight, mass, and practical lighting. Totally agree.",199,1771222337,101,Godzilla 2000,1,0
+p_1371,r/movies,That final sacrifice scene in Pacific Rim broke me emotionally. Imho.,127,1769557211,69,Pacific Rim,4,16
+p_1431,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on. 🤷‍♂️",243,1771102449,113,Godzilla 2000,1,2
+p_1320,r/movies,me watching Pacific Rim: haha robot go brrrrr 😂 Totally agree.,37,1770746143,62,Pacific Rim,3,24
+p_1595,r/movies,The romance subplot in Godzilla 2000 was surprisingly tender amidst all the chaos. Just saying.,89,1770059244,95,Godzilla 2000,4,15
+p_1297,r/movies,the action sequences in Pacific Rim are absolutely goated. :),492,1769644803,61,Pacific Rim,2,30
+p_1316,r/movies,me watching Pacific Rim: haha robot go brrrrr 😂 :),2,1770879598,50,Pacific Rim,3,24
+p_1151,r/movies,"The true focus of Transformers is how tragedy unites humanity, not just the fighting. 🤷‍♂️",402,1771324155,90,Transformers,4,21
+p_1148,r/movies,me watching Transformers: haha robot go brrrrr 😂 Just saying.,-25,1771190085,61,Transformers,3,24
+p_1097,r/movies,"bro Transformers is literal fire, just turn your brain off and enjoy the explosions 🔥 :)",302,1770171419,88,Transformers,2,20
+p_1081,r/movies,"bro Transformers is literal fire, just turn your brain off and enjoy the explosions 🔥 Imho.",94,1771623464,91,Transformers,2,20
+p_1274,r/movies,"bro Pacific Rim is literal fire, just turn your brain off and enjoy the explosions 🔥 :)",333,1769730943,87,Pacific Rim,2,20
+p_1329,r/movies,POV: you're trying to watch Pacific Rim but the plot is missing. 🤷‍♂️,31,1771572643,69,Pacific Rim,3,31
+p_1385,r/movies,"The true focus of Pacific Rim is how tragedy unites humanity, not just the fighting. :)",445,1769579086,87,Pacific Rim,4,11
+p_1116,r/movies,me watching Transformers: haha robot go brrrrr 😂 Imho.,43,1770325050,54,Transformers,3,24
+p_1197,r/movies,The actor's chemistry in Transformers was incredible. You could really feel their shared pain. Just saying.,487,1771156538,107,Transformers,4,-1
+p_1010,r/movies,"The CGI holds up because the director understood weight, mass, and practical lighting. 🤷‍♂️",469,1770861624,91,Transformers,1,0
+p_1392,r/movies,The actor's chemistry in Pacific Rim was incredible. You could really feel their shared pain.,13,1769413318,93,Pacific Rim,4,-1
+p_1098,r/movies,10/10 popcorn flick. Transformers never gets old. :),472,1770424042,52,Transformers,2,17
+p_1036,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on. Imho.",280,1769316425,114,Transformers,1,6
+p_1137,r/movies,"tbh Transformers was mid, they should have just used a nuke.",-33,1770794094,60,Transformers,3,-1
+p_1519,r/movies,10/10 popcorn flick. Godzilla 2000 never gets old. Totally agree.,397,1770200858,65,Godzilla 2000,2,17
+p_1189,r/movies,The actor's chemistry in Transformers was incredible. You could really feel their shared pain. Imho.,246,1769437054,100,Transformers,4,-1
+p_1629,r/funny,I lost my car keys today and I am so mad. anyone?,-45,1769502601,49,,0,25
+p_1049,r/movies,"The CGI holds up because the director understood weight, mass, and practical lighting. Just saying.",496,1770627079,99,Transformers,1,0
+p_1241,r/movies,"The CGI holds up because the director understood weight, mass, and practical lighting. 🤷‍♂️",466,1770534238,91,Pacific Rim,1,0
+p_1455,r/movies,The world-building in Godzilla 2000 is genuinely fascinating if you look past the surface. :),254,1769338756,93,Godzilla 2000,1,14
+p_1618,r/movies,"I wish they spent more time on the characters in Godzilla 2000, their backstory was heartbreaking. Just saying.",105,1769708425,111,Godzilla 2000,4,32
+p_1060,r/movies,"Watching Transformers makes me want to punch a wall, the soundtrack goes so hard.",75,1771210656,81,Transformers,2,19
+p_1394,r/movies,The actor's chemistry in Pacific Rim was incredible. You could really feel their shared pain.,488,1771478416,93,Pacific Rim,4,-1
+p_1347,r/movies,is Pacific Rim a jojo reference??? 🤷‍♂️,6,1770044369,39,Pacific Rim,3,8
+p_1159,r/movies,The actor's chemistry in Transformers was incredible. You could really feel their shared pain. Imho.,466,1769147097,100,Transformers,4,-1
+p_1525,r/movies,"tbh Godzilla 2000 was mid, they should have just used a nuke. :)",-44,1769615461,64,Godzilla 2000,3,7
+p_1077,r/movies,Giant robots fighting giant monsters. What more do you want from Transformers??,80,1771187388,79,Transformers,2,9
+p_1607,r/movies,The actor's chemistry in Godzilla 2000 was incredible. You could really feel their shared pain. 🤷‍♂️,192,1770284309,100,Godzilla 2000,4,22
+p_1600,r/movies,The actor's chemistry in Godzilla 2000 was incredible. You could really feel their shared pain. Totally agree.,376,1769809491,110,Godzilla 2000,4,22
+p_1432,r/movies,The world-building in Godzilla 2000 is genuinely fascinating if you look past the surface. :),448,1770359663,93,Godzilla 2000,1,14
+p_1198,r/movies,The romance subplot in Transformers was surprisingly tender amidst all the chaos. Imho.,261,1770294944,87,Transformers,4,15
+p_1308,r/movies,"I don't care about the plot holes, Pacific Rim is pure hype. Totally agree.",352,1769192824,75,Pacific Rim,2,-1
+p_1175,r/movies,"The true focus of Transformers is how tragedy unites humanity, not just the fighting.",388,1770422916,85,Transformers,4,21
+p_1498,r/movies,I saw Godzilla 2000 in IMAX and the bass literally shook my seat. Insane movie. Just saying.,222,1771325412,92,Godzilla 2000,2,12
+p_1100,r/movies,this says a lot about society. 🤷‍♂️,4,1770300046,35,Transformers,3,3
+p_1449,r/movies,"If you analyze the mechanical engineering represented in Godzilla 2000, it's surprisingly grounded. Totally agree.",305,1770896216,114,Godzilla 2000,1,23
+p_1080,r/movies,"I don't care about the plot holes, Transformers is pure hype. 🤷‍♂️",316,1770127793,66,Transformers,2,26
+p_1524,r/movies,is Godzilla 2000 a jojo reference??? Imho.,2,1769519545,42,Godzilla 2000,3,7
+p_1496,r/movies,"bro Godzilla 2000 is literal fire, just turn your brain off and enjoy the explosions 🔥 :)",271,1771019985,89,Godzilla 2000,2,20
+p_1617,r/movies,I honestly teared up during Godzilla 2000. The relationship between the pilots is the emotional core. Just saying.,43,1770855999,114,Godzilla 2000,4,28
+p_1073,r/movies,"bro Transformers is literal fire, just turn your brain off and enjoy the explosions 🔥 Just saying.",497,1769054733,98,Transformers,2,20
+p_1338,r/movies,this says a lot about society. :),27,1769894623,33,Pacific Rim,3,3
+p_1210,r/movies,I appreciated how Pacific Rim handled the scale and physics of the mecha designs. Totally agree.,-4,1769916390,96,Pacific Rim,1,4
+p_1283,r/movies,10/10 popcorn flick. Pacific Rim never gets old. Just saying.,186,1769465394,61,Pacific Rim,2,18
+p_1315,r/movies,I rate Pacific Rim 5/7 perfect score.,14,1771058368,37,Pacific Rim,3,18
+p_1030,r/movies,"If you analyze the mechanical engineering represented in Transformers, it's surprisingly grounded. Imho.",414,1770484938,104,Transformers,1,29
+p_1324,r/movies,"tbh Pacific Rim was mid, they should have just used a nuke. 🤷‍♂️",-20,1769137226,64,Pacific Rim,3,1
+p_1398,r/movies,That final sacrifice scene in Pacific Rim broke me emotionally.,481,1769959188,63,Pacific Rim,4,16
+p_1530,r/movies,when the giant robot did the thing in Godzilla 2000 I literally ascended 💀,9,1770467835,74,Godzilla 2000,3,25
+p_1421,r/movies,I appreciated how Godzilla 2000 handled the scale and physics of the mecha designs. Totally agree.,306,1769653058,98,Godzilla 2000,1,-1
+p_1287,r/movies,"Watching Pacific Rim makes me want to punch a wall, the soundtrack goes so hard. 🤷‍♂️",213,1769129660,85,Pacific Rim,2,19
+p_1227,r/movies,I appreciated how Pacific Rim handled the scale and physics of the mecha designs.,451,1769799305,81,Pacific Rim,1,4
+p_1480,r/movies,"Watching Godzilla 2000 makes me want to punch a wall, the soundtrack goes so hard. 🤷‍♂️",117,1771413677,87,Godzilla 2000,2,19
+p_1037,r/movies,I appreciated how Transformers handled the scale and physics of the mecha designs. Totally agree.,194,1770637626,97,Transformers,1,-1
+p_1161,r/movies,That final sacrifice scene in Transformers broke me emotionally. Totally agree.,384,1769481228,79,Transformers,4,16
+p_1191,r/movies,"The true focus of Transformers is how tragedy unites humanity, not just the fighting. Just saying.",480,1770496705,98,Transformers,4,21
+p_1571,r/movies,That final sacrifice scene in Godzilla 2000 broke me emotionally. 🤷‍♂️,8,1770467575,70,Godzilla 2000,4,10
+p_1485,r/movies,10/10 popcorn flick. Godzilla 2000 never gets old. Totally agree.,-2,1769702124,65,Godzilla 2000,2,17
+p_1410,r/AskReddit,Did you guys hear about the stock market crash?,-24,1771369898,47,,0,-1
+p_1062,r/movies,"bro Transformers is literal fire, just turn your brain off and enjoy the explosions 🔥 :)",98,1769818053,88,Transformers,2,20
+p_1478,r/movies,"I don't care about the plot holes, Godzilla 2000 is pure hype.",1,1770667476,62,Godzilla 2000,2,32
+p_1453,r/movies,The world-building in Godzilla 2000 is genuinely fascinating if you look past the surface. Just saying.,142,1771438261,103,Godzilla 2000,1,14
+p_1298,r/movies,"Watching Pacific Rim makes me want to punch a wall, the soundtrack goes so hard. 🤷‍♂️",372,1770603202,85,Pacific Rim,2,19
+p_1033,r/movies,I appreciated how Transformers handled the scale and physics of the mecha designs.,154,1770441582,82,Transformers,1,-1
+p_1238,r/movies,Pacific Rim does a surprisingly good job of integrating the sci-fi tech into a believable near-future economy. 🤷‍♂️,376,1770366267,115,Pacific Rim,1,29
+p_1373,r/movies,That final sacrifice scene in Pacific Rim broke me emotionally. Just saying.,174,1769557963,76,Pacific Rim,4,16
+p_1569,r/movies,"tbh Godzilla 2000 was mid, they should have just used a nuke. 🤷‍♂️",-49,1769055960,66,Godzilla 2000,3,7
+p_1577,r/movies,I honestly teared up during Godzilla 2000. The relationship between the pilots is the emotional core. 🤷‍♂️,372,1769827685,106,Godzilla 2000,4,28
+p_1355,r/movies,this says a lot about society. Just saying.,1,1770591361,43,Pacific Rim,3,3
+p_1134,r/movies,me watching Transformers: haha robot go brrrrr 😂 :),31,1771058961,51,Transformers,3,24
+p_1302,r/movies,"Watching Pacific Rim makes me want to punch a wall, the soundtrack goes so hard. Totally agree.",371,1770748305,95,Pacific Rim,2,19
+p_1201,r/AskReddit,Did you guys hear about the stock market crash?,-37,1770014387,47,,0,-1
+p_1376,r/movies,The actor's chemistry in Pacific Rim was incredible. You could really feel their shared pain. Totally agree.,125,1771444573,108,Pacific Rim,4,-1
+p_1233,r/movies,"Say what you will about the plot, but the lore and the neural drift concepts in Pacific Rim are top-tier sci-fi.",1,1769378834,112,Pacific Rim,1,27
+p_1325,r/movies,"tbh Pacific Rim was mid, they should have just used a nuke. 🤷‍♂️",27,1769720099,64,Pacific Rim,3,1
+p_1026,r/movies,I appreciated how Transformers handled the scale and physics of the mecha designs. Just saying.,55,1769843124,95,Transformers,1,-1
+p_1572,r/movies,"I wish they spent more time on the characters in Godzilla 2000, their backstory was heartbreaking. :)",2,1770747130,101,Godzilla 2000,4,32
+p_1280,r/movies,I saw Pacific Rim in IMAX and the bass literally shook my seat. Insane movie. Totally agree.,367,1769263058,92,Pacific Rim,2,13
+p_1516,r/movies,"I don't care about the plot holes, Godzilla 2000 is pure hype. Just saying.",218,1769851709,75,Godzilla 2000,2,32
+p_1367,r/movies,"People talk about the action, but Pacific Rim is really a story about trauma and finding human connection. Imho.",250,1769555244,112,Pacific Rim,4,11
+p_1218,r/movies,I appreciated how Pacific Rim handled the scale and physics of the mecha designs. Imho.,40,1770073503,87,Pacific Rim,1,4
+p_1462,r/movies,The world-building in Godzilla 2000 is genuinely fascinating if you look past the surface. :),417,1770937104,93,Godzilla 2000,1,14
+p_1215,r/movies,I appreciated how Pacific Rim handled the scale and physics of the mecha designs.,133,1769922954,81,Pacific Rim,1,4
+p_1224,r/movies,"The CGI holds up because the director understood weight, mass, and practical lighting.",140,1771113731,86,Pacific Rim,1,0
+p_1365,r/movies,"I wish they spent more time on the characters in Pacific Rim, their backstory was heartbreaking.",425,1771102614,96,Pacific Rim,4,8
+p_1244,r/movies,"If you analyze the mechanical engineering represented in Pacific Rim, it's surprisingly grounded. Just saying.",436,1770198954,110,Pacific Rim,1,-1
+p_1195,r/movies,The romance subplot in Transformers was surprisingly tender amidst all the chaos.,279,1771204035,81,Transformers,4,15
+p_1265,r/movies,I saw Pacific Rim in IMAX and the bass literally shook my seat. Insane movie. Totally agree.,60,1770870578,92,Pacific Rim,2,13
+p_1228,r/movies,"Say what you will about the plot, but the lore and the neural drift concepts in Pacific Rim are top-tier sci-fi. Totally agree.",102,1770282834,127,Pacific Rim,1,27
+p_1546,r/movies,this says a lot about society. Imho.,5,1769864043,36,Godzilla 2000,3,3
+p_1130,r/movies,when the giant robot did the thing in Transformers I literally ascended 💀 Totally agree.,42,1770208833,88,Transformers,3,5
+p_1239,r/movies,I appreciated how Pacific Rim handled the scale and physics of the mecha designs. Totally agree.,44,1770876231,96,Pacific Rim,1,4
+p_1619,r/movies,"People talk about the action, but Godzilla 2000 is really a story about trauma and finding human connection. :)",62,1770292073,111,Godzilla 2000,4,32
+p_1504,r/movies,"Watching Godzilla 2000 makes me want to punch a wall, the soundtrack goes so hard.",320,1770738130,82,Godzilla 2000,2,19
+p_1605,r/movies,I honestly teared up during Godzilla 2000. The relationship between the pilots is the emotional core. Just saying.,120,1771075284,114,Godzilla 2000,4,28
+p_1102,r/movies,me watching Transformers: haha robot go brrrrr 😂 Totally agree.,-4,1769767614,63,Transformers,3,24
+p_1003,r/movies,"The CGI holds up because the director understood weight, mass, and practical lighting. Just saying.",173,1769522774,99,Transformers,1,0
+p_1581,r/movies,The actor's chemistry in Godzilla 2000 was incredible. You could really feel their shared pain. 🤷‍♂️,288,1770710940,100,Godzilla 2000,4,22
+p_1056,r/movies,Giant robots fighting giant monsters. What more do you want from Transformers?? Just saying.,386,1770827936,92,Transformers,2,9
+p_1112,r/movies,POV: you're trying to watch Transformers but the plot is missing. Just saying.,45,1771364171,78,Transformers,3,31
+p_1489,r/movies,"bro Godzilla 2000 is literal fire, just turn your brain off and enjoy the explosions 🔥 Just saying.",217,1770280339,99,Godzilla 2000,2,20
+p_1411,r/all,Anyone else here playing the new Zelda game instead? anyone?,-53,1769053227,60,,0,23
+p_1000,r/movies,The world-building in Transformers is genuinely fascinating if you look past the surface. 🤷‍♂️,433,1771606009,94,Transformers,1,14
+p_1596,r/movies,That final sacrifice scene in Godzilla 2000 broke me emotionally. Totally agree.,451,1771205460,80,Godzilla 2000,4,10
+p_1016,r/movies,"The CGI holds up because the director understood weight, mass, and practical lighting. 🤷‍♂️",62,1769188866,91,Transformers,1,0
+p_1267,r/movies,"bro Pacific Rim is literal fire, just turn your brain off and enjoy the explosions 🔥 :)",37,1769644399,87,Pacific Rim,2,20
+p_1482,r/movies,the action sequences in Godzilla 2000 are absolutely goated. 🤷‍♂️,210,1770555067,65,Godzilla 2000,2,30
+p_1564,r/movies,me watching Godzilla 2000: haha robot go brrrrr 😂 Just saying.,-42,1770668822,62,Godzilla 2000,3,24
+p_1608,r/movies,The actor's chemistry in Godzilla 2000 was incredible. You could really feel their shared pain. :),55,1769723328,98,Godzilla 2000,4,22
+p_1029,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on. Totally agree.",151,1771380440,123,Transformers,1,6
+p_1532,r/movies,when the giant robot did the thing in Godzilla 2000 I literally ascended 💀,-46,1769247527,74,Godzilla 2000,3,25
+p_1076,r/movies,"Watching Transformers makes me want to punch a wall, the soundtrack goes so hard.",30,1770897961,81,Transformers,2,19
+p_1567,r/movies,me watching Godzilla 2000: haha robot go brrrrr 😂 Totally agree.,-5,1771299720,64,Godzilla 2000,3,24
+p_1053,r/movies,Giant robots fighting giant monsters. What more do you want from Transformers?? 🤷‍♂️,-4,1771496751,84,Transformers,2,9
+p_1032,r/movies,The world-building in Transformers is genuinely fascinating if you look past the surface.,3,1771166961,89,Transformers,1,14
+p_1234,r/movies,"The CGI holds up because the director understood weight, mass, and practical lighting. Just saying.",343,1771629003,99,Pacific Rim,1,0
+p_1121,r/movies,I rate Transformers 5/7 perfect score. Just saying.,10,1770174272,51,Transformers,3,18
+p_1147,r/movies,is Transformers a jojo reference???,-21,1770995249,35,Transformers,3,7
+p_1192,r/movies,The actor's chemistry in Transformers was incredible. You could really feel their shared pain.,250,1771400033,94,Transformers,4,-1
+p_1071,r/movies,"bro Transformers is literal fire, just turn your brain off and enjoy the explosions 🔥 Just saying.",31,1771142199,98,Transformers,2,20
+p_1521,r/movies,POV: you're trying to watch Godzilla 2000 but the plot is missing. Totally agree.,49,1771364616,81,Godzilla 2000,3,31
+p_1155,r/movies,That final sacrifice scene in Transformers broke me emotionally. :),283,1770747278,67,Transformers,4,16
+p_1613,r/movies,"People talk about the action, but Godzilla 2000 is really a story about trauma and finding human connection. 🤷‍♂️",187,1770882150,113,Godzilla 2000,4,32
+p_1522,r/movies,me watching Godzilla 2000: haha robot go brrrrr 😂,-44,1769683740,49,Godzilla 2000,3,24
+p_1004,r/movies,"The CGI holds up because the director understood weight, mass, and practical lighting. Totally agree.",163,1769957947,101,Transformers,1,0
+p_1404,r/movies,That final sacrifice scene in Pacific Rim broke me emotionally. 🤷‍♂️,377,1769286948,68,Pacific Rim,4,16
+p_1273,r/movies,I saw Pacific Rim in IMAX and the bass literally shook my seat. Insane movie. 🤷‍♂️,169,1769136971,82,Pacific Rim,2,13
+p_1183,r/movies,I honestly teared up during Transformers. The relationship between the pilots is the emotional core. 🤷‍♂️,289,1771231103,105,Transformers,4,28
+p_1335,r/movies,when the giant robot did the thing in Pacific Rim I literally ascended 💀 Imho.,-9,1769320046,78,Pacific Rim,3,30
+p_1260,r/movies,Giant robots fighting giant monsters. What more do you want from Pacific Rim??,213,1771172905,78,Pacific Rim,2,9
+p_1194,r/movies,"People talk about the action, but Transformers is really a story about trauma and finding human connection. :)",481,1771429908,110,Transformers,4,21
+p_1556,r/movies,is Godzilla 2000 a jojo reference??? :),-32,1769321347,39,Godzilla 2000,3,7
+p_1250,r/movies,I appreciated how Pacific Rim handled the scale and physics of the mecha designs. Just saying.,384,1770521936,94,Pacific Rim,1,4
+p_1013,r/movies,"The CGI holds up because the director understood weight, mass, and practical lighting.",24,1771408845,86,Transformers,1,0
+p_1261,r/movies,"I don't care about the plot holes, Pacific Rim is pure hype. 🤷‍♂️",365,1769491397,65,Pacific Rim,2,-1
+p_1245,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on. 🤷‍♂️",453,1769758278,113,Pacific Rim,1,2
+p_1290,r/movies,10/10 popcorn flick. Pacific Rim never gets old. Imho.,447,1771473396,54,Pacific Rim,2,18
+p_1499,r/movies,I saw Godzilla 2000 in IMAX and the bass literally shook my seat. Insane movie. Imho.,392,1771082040,85,Godzilla 2000,2,12
+p_1388,r/movies,That final sacrifice scene in Pacific Rim broke me emotionally. Just saying.,321,1769552274,76,Pacific Rim,4,16
+p_1166,r/movies,"I wish they spent more time on the characters in Transformers, their backstory was heartbreaking. 🤷‍♂️",4,1769151095,102,Transformers,4,26
+p_1213,r/movies,"If you analyze the mechanical engineering represented in Pacific Rim, it's surprisingly grounded. Just saying.",12,1770496623,110,Pacific Rim,1,-1
+p_1005,r/movies,"If you analyze the mechanical engineering represented in Transformers, it's surprisingly grounded.",176,1771027433,98,Transformers,1,29
+p_1110,r/movies,this says a lot about society.,-13,1770018794,30,Transformers,3,3
+p_1069,r/movies,Giant robots fighting giant monsters. What more do you want from Transformers?? Imho.,333,1770998289,85,Transformers,2,9
+p_1127,r/movies,when the giant robot did the thing in Transformers I literally ascended 💀 Imho.,38,1771419035,79,Transformers,3,5
+p_1031,r/movies,Transformers does a surprisingly good job of integrating the sci-fi tech into a believable near-future economy. Totally agree.,140,1769199684,126,Transformers,1,14
+p_1051,r/movies,"bro Transformers is literal fire, just turn your brain off and enjoy the explosions 🔥 Just saying.",166,1769693866,98,Transformers,2,20
+p_1612,r/movies,That final sacrifice scene in Godzilla 2000 broke me emotionally. Totally agree.,241,1769821532,80,Godzilla 2000,4,10
+p_1240,r/movies,The world-building in Pacific Rim is genuinely fascinating if you look past the surface. 🤷‍♂️,19,1771287050,93,Pacific Rim,1,14
+p_1057,r/movies,the action sequences in Transformers are absolutely goated. Totally agree.,399,1769248374,74,Transformers,2,-1
+p_1602,r/movies,I honestly teared up during Godzilla 2000. The relationship between the pilots is the emotional core. :),489,1770764657,104,Godzilla 2000,4,28
+p_1144,r/movies,this says a lot about society. Just saying.,-23,1770812794,43,Transformers,3,3
+p_1350,r/movies,is Pacific Rim a jojo reference??? 🤷‍♂️,-3,1771619347,39,Pacific Rim,3,8
+p_1586,r/movies,That final sacrifice scene in Godzilla 2000 broke me emotionally. 🤷‍♂️,375,1769298507,70,Godzilla 2000,4,10
+p_1418,r/all,Check out my soundcloud link in bio! anyone?,-30,1771146704,44,,0,19
+p_1279,r/movies,10/10 popcorn flick. Pacific Rim never gets old. Imho.,444,1770768598,54,Pacific Rim,2,18
+p_1171,r/movies,The actor's chemistry in Transformers was incredible. You could really feel their shared pain. 🤷‍♂️,24,1769705914,99,Transformers,4,-1
+p_1551,r/movies,when the giant robot did the thing in Godzilla 2000 I literally ascended 💀 :),0,1769559693,77,Godzilla 2000,3,25
+p_1050,r/movies,"Watching Transformers makes me want to punch a wall, the soundtrack goes so hard. Totally agree.",222,1770518159,96,Transformers,2,19
+p_1054,r/movies,Giant robots fighting giant monsters. What more do you want from Transformers?? :),402,1769133497,82,Transformers,2,9
+p_1357,r/movies,"tbh Pacific Rim was mid, they should have just used a nuke. Imho.",6,1770927342,65,Pacific Rim,3,1
+p_1047,r/movies,I appreciated how Transformers handled the scale and physics of the mecha designs. Totally agree.,268,1771453720,97,Transformers,1,-1
+p_1332,r/movies,is Pacific Rim a jojo reference??? Just saying.,5,1770750843,47,Pacific Rim,3,8
+p_1369,r/movies,The romance subplot in Pacific Rim was surprisingly tender amidst all the chaos.,325,1769771208,80,Pacific Rim,4,15
+p_1542,r/movies,this says a lot about society. Just saying.,37,1769169114,43,Godzilla 2000,3,3
+p_1133,r/movies,me watching Transformers: haha robot go brrrrr 😂 :),24,1770693728,51,Transformers,3,24
+p_1021,r/movies,Transformers does a surprisingly good job of integrating the sci-fi tech into a believable near-future economy. Just saying.,55,1770527638,124,Transformers,1,14
+p_1307,r/movies,I saw Pacific Rim in IMAX and the bass literally shook my seat. Insane movie. Totally agree.,427,1771021963,92,Pacific Rim,2,13
+p_1212,r/movies,"Say what you will about the plot, but the lore and the neural drift concepts in Pacific Rim are top-tier sci-fi. Imho.",1,1770296864,118,Pacific Rim,1,27
+p_1079,r/movies,the action sequences in Transformers are absolutely goated. Totally agree.,89,1769068431,74,Transformers,2,-1
+p_1063,r/movies,"bro Transformers is literal fire, just turn your brain off and enjoy the explosions 🔥 Just saying.",81,1769636024,98,Transformers,2,20
+p_1034,r/movies,I appreciated how Transformers handled the scale and physics of the mecha designs. Imho.,132,1769249497,88,Transformers,1,-1
+p_1327,r/movies,when the giant robot did the thing in Pacific Rim I literally ascended 💀 Just saying.,-38,1770532004,85,Pacific Rim,3,30
+p_1120,r/movies,"tbh Transformers was mid, they should have just used a nuke. Just saying.",44,1769756573,73,Transformers,3,-1
+p_1173,r/movies,I honestly teared up during Transformers. The relationship between the pilots is the emotional core. :),287,1769318186,103,Transformers,4,28
+p_1336,r/movies,I rate Pacific Rim 5/7 perfect score. Just saying.,27,1769311986,50,Pacific Rim,3,18
+p_1264,r/movies,the action sequences in Pacific Rim are absolutely goated. :),255,1769873108,61,Pacific Rim,2,30
+p_1591,r/movies,The actor's chemistry in Godzilla 2000 was incredible. You could really feel their shared pain. 🤷‍♂️,390,1770416394,100,Godzilla 2000,4,22
+p_1444,r/movies,"The CGI holds up because the director understood weight, mass, and practical lighting. Imho.",453,1769875832,92,Godzilla 2000,1,0
+p_1614,r/movies,"I wish they spent more time on the characters in Godzilla 2000, their backstory was heartbreaking. :)",65,1771323693,101,Godzilla 2000,4,32
+p_1186,r/movies,The actor's chemistry in Transformers was incredible. You could really feel their shared pain. Just saying.,306,1770734831,107,Transformers,4,-1
+p_1441,r/movies,"The CGI holds up because the director understood weight, mass, and practical lighting.",474,1770767882,86,Godzilla 2000,1,0
+p_1074,r/movies,"Watching Transformers makes me want to punch a wall, the soundtrack goes so hard. 🤷‍♂️",308,1769770537,86,Transformers,2,19
+p_1460,r/movies,"If you analyze the mechanical engineering represented in Godzilla 2000, it's surprisingly grounded.",396,1770928776,99,Godzilla 2000,1,23
+p_1095,r/movies,10/10 popcorn flick. Transformers never gets old. Totally agree.,434,1770783661,64,Transformers,2,17
+p_1292,r/movies,10/10 popcorn flick. Pacific Rim never gets old. 🤷‍♂️,34,1770490536,53,Pacific Rim,2,18
+p_1143,r/movies,is Transformers a jojo reference??? :),50,1769425125,38,Transformers,3,7
+p_1084,r/movies,10/10 popcorn flick. Transformers never gets old. Totally agree.,332,1769924746,64,Transformers,2,17
+p_1517,r/movies,I saw Godzilla 2000 in IMAX and the bass literally shook my seat. Insane movie. :),491,1769960666,82,Godzilla 2000,2,12
+p_1378,r/movies,"People talk about the action, but Pacific Rim is really a story about trauma and finding human connection. :)",266,1771459939,109,Pacific Rim,4,11
+p_1601,r/movies,The romance subplot in Godzilla 2000 was surprisingly tender amidst all the chaos. :),111,1771345527,85,Godzilla 2000,4,15
+p_1439,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on. Imho.",408,1771288479,114,Godzilla 2000,1,6
+p_1138,r/movies,me watching Transformers: haha robot go brrrrr 😂,8,1769739859,48,Transformers,3,24
+p_1190,r/movies,"I wish they spent more time on the characters in Transformers, their backstory was heartbreaking. 🤷‍♂️",372,1771241243,102,Transformers,4,26
+p_1268,r/movies,"Watching Pacific Rim makes me want to punch a wall, the soundtrack goes so hard. :)",6,1770812859,83,Pacific Rim,2,19
+p_1058,r/movies,the action sequences in Transformers are absolutely goated. Just saying.,393,1770687057,72,Transformers,2,-1
+p_1232,r/movies,"The CGI holds up because the director understood weight, mass, and practical lighting. Just saying.",243,1770880445,99,Pacific Rim,1,0
+p_1042,r/movies,Transformers does a surprisingly good job of integrating the sci-fi tech into a believable near-future economy. Just saying.,277,1770604385,124,Transformers,1,14
+p_1544,r/movies,me watching Godzilla 2000: haha robot go brrrrr 😂 Imho.,17,1769709760,55,Godzilla 2000,3,24
+p_1125,r/movies,me watching Transformers: haha robot go brrrrr 😂 Totally agree.,-9,1769834934,63,Transformers,3,24
+p_1419,r/all,Anyone else here playing the new Zelda game instead? anyone?,-31,1770079325,60,,0,23
+p_1573,r/movies,"The true focus of Godzilla 2000 is how tragedy unites humanity, not just the fighting. Just saying.",384,1771028637,99,Godzilla 2000,4,32
+p_1256,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on.",385,1770447150,108,Pacific Rim,1,6
+p_1587,r/movies,"I wish they spent more time on the characters in Godzilla 2000, their backstory was heartbreaking. Totally agree.",436,1771187069,113,Godzilla 2000,4,32
+p_1343,r/movies,when the giant robot did the thing in Pacific Rim I literally ascended 💀 :),12,1770383648,75,Pacific Rim,3,30
+p_1113,r/movies,when the giant robot did the thing in Transformers I literally ascended 💀 :),14,1769528907,76,Transformers,3,5
+p_1303,r/movies,the action sequences in Pacific Rim are absolutely goated. 🤷‍♂️,187,1770308789,63,Pacific Rim,2,30
+p_1230,r/movies,"The CGI holds up because the director understood weight, mass, and practical lighting. Just saying.",140,1771482655,99,Pacific Rim,1,0
+p_1626,r/AskReddit,I lost my car keys today and I am so mad. lol.,-29,1770474172,46,,0,25
+p_1211,r/movies,"The CGI holds up because the director understood weight, mass, and practical lighting.",99,1770189692,86,Pacific Rim,1,0
+p_1045,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on. Just saying.",63,1770596598,121,Transformers,1,6
+p_1609,r/movies,"People talk about the action, but Godzilla 2000 is really a story about trauma and finding human connection. 🤷‍♂️",451,1771529720,113,Godzilla 2000,4,32
+p_1435,r/movies,"The CGI holds up because the director understood weight, mass, and practical lighting. Just saying.",207,1770199648,99,Godzilla 2000,1,0
+p_1500,r/movies,Giant robots fighting giant monsters. What more do you want from Godzilla 2000?? :),12,1769960625,83,Godzilla 2000,2,9
+p_1282,r/movies,"bro Pacific Rim is literal fire, just turn your brain off and enjoy the explosions 🔥 :)",34,1770951907,87,Pacific Rim,2,20
+p_1359,r/movies,"tbh Pacific Rim was mid, they should have just used a nuke. Imho.",24,1769587016,65,Pacific Rim,3,1
+p_1196,r/movies,The actor's chemistry in Transformers was incredible. You could really feel their shared pain. Just saying.,3,1771438129,107,Transformers,4,-1
+p_1549,r/movies,me watching Godzilla 2000: haha robot go brrrrr 😂 Just saying.,-41,1769240725,62,Godzilla 2000,3,24
+p_1589,r/movies,The actor's chemistry in Godzilla 2000 was incredible. You could really feel their shared pain. Just saying.,206,1771541592,108,Godzilla 2000,4,22
+p_1221,r/movies,The world-building in Pacific Rim is genuinely fascinating if you look past the surface. Just saying.,248,1769102424,101,Pacific Rim,1,14
+p_1484,r/movies,I saw Godzilla 2000 in IMAX and the bass literally shook my seat. Insane movie.,15,1770925567,79,Godzilla 2000,2,12
+p_1345,r/movies,this says a lot about society. :),-25,1769120480,33,Pacific Rim,3,3
+p_1565,r/movies,is Godzilla 2000 a jojo reference??? Imho.,39,1770871762,42,Godzilla 2000,3,7
+p_1574,r/movies,That final sacrifice scene in Godzilla 2000 broke me emotionally. Imho.,446,1771523738,71,Godzilla 2000,4,10
+p_1531,r/movies,"tbh Godzilla 2000 was mid, they should have just used a nuke. Just saying.",39,1769339771,74,Godzilla 2000,3,7
+p_1400,r/movies,"People talk about the action, but Pacific Rim is really a story about trauma and finding human connection.",195,1769988691,106,Pacific Rim,4,11
+p_1067,r/movies,I saw Transformers in IMAX and the bass literally shook my seat. Insane movie. 🤷‍♂️,290,1771113778,83,Transformers,2,13
+p_1246,r/movies,I appreciated how Pacific Rim handled the scale and physics of the mecha designs. 🤷‍♂️,8,1769218680,86,Pacific Rim,1,4
+p_1491,r/movies,I saw Godzilla 2000 in IMAX and the bass literally shook my seat. Insane movie. Totally agree.,362,1770663673,94,Godzilla 2000,2,12
+p_1540,r/movies,this says a lot about society. Just saying.,-3,1771119985,43,Godzilla 2000,3,3
+p_1326,r/movies,when the giant robot did the thing in Pacific Rim I literally ascended 💀 Imho.,-23,1771349110,78,Pacific Rim,3,30
+p_1008,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on. 🤷‍♂️",131,1771373376,113,Transformers,1,2
+p_1300,r/movies,Giant robots fighting giant monsters. What more do you want from Pacific Rim?? Totally agree.,297,1770964860,93,Pacific Rim,2,9
+p_1334,r/movies,I rate Pacific Rim 5/7 perfect score. Totally agree.,-40,1769625132,52,Pacific Rim,3,18
+p_1014,r/movies,"The CGI holds up because the director understood weight, mass, and practical lighting. :)",483,1769581985,89,Transformers,1,0
+p_1481,r/movies,I saw Godzilla 2000 in IMAX and the bass literally shook my seat. Insane movie. Totally agree.,140,1771501505,94,Godzilla 2000,2,12
+p_1333,r/movies,me watching Pacific Rim: haha robot go brrrrr 😂,-19,1770603025,47,Pacific Rim,3,24
+p_1181,r/movies,"People talk about the action, but Transformers is really a story about trauma and finding human connection. Imho.",139,1770299337,113,Transformers,4,21
+p_1393,r/movies,I honestly teared up during Pacific Rim. The relationship between the pilots is the emotional core.,468,1771367286,99,Pacific Rim,4,28
+p_1086,r/movies,I saw Transformers in IMAX and the bass literally shook my seat. Insane movie. Imho.,412,1769518501,84,Transformers,2,13
+p_1488,r/movies,"I don't care about the plot holes, Godzilla 2000 is pure hype. Totally agree.",478,1771242465,77,Godzilla 2000,2,32
+p_1225,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on. :)",497,1769433470,111,Pacific Rim,1,2
+p_1510,r/movies,"bro Godzilla 2000 is literal fire, just turn your brain off and enjoy the explosions 🔥 🤷‍♂️",389,1771330601,91,Godzilla 2000,2,20
+p_1361,r/movies,That final sacrifice scene in Pacific Rim broke me emotionally. Totally agree.,413,1771336714,78,Pacific Rim,4,16
+p_1506,r/movies,the action sequences in Godzilla 2000 are absolutely goated. Imho.,383,1770741187,66,Godzilla 2000,2,30
+p_1106,r/movies,POV: you're trying to watch Transformers but the plot is missing. Imho.,-39,1770190220,71,Transformers,3,31
+p_1092,r/movies,"I don't care about the plot holes, Transformers is pure hype.",128,1770938318,61,Transformers,2,26
+p_1415,r/AskReddit,I lost my car keys today and I am so mad. sigh.,-36,1770007395,47,,0,25
+p_1126,r/movies,POV: you're trying to watch Transformers but the plot is missing. Totally agree.,2,1769990921,80,Transformers,3,31
+p_1018,r/movies,"The CGI holds up because the director understood weight, mass, and practical lighting. Just saying.",478,1770130034,99,Transformers,1,0
+p_1386,r/movies,"People talk about the action, but Pacific Rim is really a story about trauma and finding human connection. :)",115,1770029380,109,Pacific Rim,4,11
+p_1091,r/movies,Giant robots fighting giant monsters. What more do you want from Transformers?? Imho.,178,1770995097,85,Transformers,2,9
+p_1593,r/movies,I honestly teared up during Godzilla 2000. The relationship between the pilots is the emotional core. Just saying.,351,1770713399,114,Godzilla 2000,4,28
+p_1348,r/movies,"tbh Pacific Rim was mid, they should have just used a nuke. Totally agree.",12,1771413301,74,Pacific Rim,3,1
+p_1486,r/movies,"I don't care about the plot holes, Godzilla 2000 is pure hype. Just saying.",261,1769852941,75,Godzilla 2000,2,32
+p_1433,r/movies,I appreciated how Godzilla 2000 handled the scale and physics of the mecha designs. :),123,1769216971,86,Godzilla 2000,1,-1
+p_1187,r/movies,"People talk about the action, but Transformers is really a story about trauma and finding human connection. :)",127,1771336531,110,Transformers,4,21
+p_1271,r/movies,the action sequences in Pacific Rim are absolutely goated. :),187,1769729090,61,Pacific Rim,2,30
+p_1527,r/movies,me watching Godzilla 2000: haha robot go brrrrr 😂 :),0,1770866885,52,Godzilla 2000,3,24
+p_1103,r/movies,POV: you're trying to watch Transformers but the plot is missing. :),12,1771090228,68,Transformers,3,31
+p_1535,r/movies,"tbh Godzilla 2000 was mid, they should have just used a nuke. Just saying.",-14,1770647823,74,Godzilla 2000,3,7
+p_1533,r/movies,is Godzilla 2000 a jojo reference??? :),-32,1770485409,39,Godzilla 2000,3,7
+p_1370,r/movies,"I wish they spent more time on the characters in Pacific Rim, their backstory was heartbreaking. Just saying.",89,1769916598,109,Pacific Rim,4,8
+p_1199,r/movies,"People talk about the action, but Transformers is really a story about trauma and finding human connection.",221,1771114056,107,Transformers,4,21
+p_1252,r/movies,"If you analyze the mechanical engineering represented in Pacific Rim, it's surprisingly grounded.",49,1770338270,97,Pacific Rim,1,-1
+p_1015,r/movies,"Say what you will about the plot, but the lore and the neural drift concepts in Transformers are top-tier sci-fi. :)",159,1769470094,116,Transformers,1,27
+p_1580,r/movies,That final sacrifice scene in Godzilla 2000 broke me emotionally. Totally agree.,91,1770827960,80,Godzilla 2000,4,10
+p_1594,r/movies,That final sacrifice scene in Godzilla 2000 broke me emotionally. Imho.,356,1769858151,71,Godzilla 2000,4,10
+p_1131,r/movies,is Transformers a jojo reference??? Just saying.,-16,1770154912,48,Transformers,3,7
+p_1111,r/movies,me watching Transformers: haha robot go brrrrr 😂 Just saying.,-1,1770624759,61,Transformers,3,24
+p_1236,r/movies,"If you analyze the mechanical engineering represented in Pacific Rim, it's surprisingly grounded. Just saying.",350,1771196521,110,Pacific Rim,1,-1
+p_1354,r/movies,when the giant robot did the thing in Pacific Rim I literally ascended 💀,26,1769153354,72,Pacific Rim,3,30
+p_1390,r/movies,"I wish they spent more time on the characters in Pacific Rim, their backstory was heartbreaking.",234,1770534038,96,Pacific Rim,4,8
+p_1150,r/movies,The romance subplot in Transformers was surprisingly tender amidst all the chaos. Totally agree.,384,1771284133,96,Transformers,4,15
+p_1459,r/movies,"The CGI holds up because the director understood weight, mass, and practical lighting. Imho.",187,1770675595,92,Godzilla 2000,1,0
+p_1416,r/funny,This is just a test to see if my Reddit bot is working. Beep boop.,-9,1771138785,66,,0,24
+p_1124,r/movies,POV: you're trying to watch Transformers but the plot is missing. Totally agree.,41,1771035217,80,Transformers,3,31
+p_1219,r/movies,"Say what you will about the plot, but the lore and the neural drift concepts in Pacific Rim are top-tier sci-fi. Totally agree.",17,1770073111,127,Pacific Rim,1,27
+p_1078,r/movies,the action sequences in Transformers are absolutely goated. 🤷‍♂️,190,1771571744,64,Transformers,2,-1
+p_1257,r/movies,I appreciated how Pacific Rim handled the scale and physics of the mecha designs. Totally agree.,279,1769574795,96,Pacific Rim,1,4
+p_1476,r/movies,"Watching Godzilla 2000 makes me want to punch a wall, the soundtrack goes so hard. Totally agree.",259,1770311786,97,Godzilla 2000,2,19
+p_1503,r/movies,"bro Godzilla 2000 is literal fire, just turn your brain off and enjoy the explosions 🔥 🤷‍♂️",87,1769812154,91,Godzilla 2000,2,20
+p_1075,r/movies,I saw Transformers in IMAX and the bass literally shook my seat. Insane movie. 🤷‍♂️,477,1770668479,83,Transformers,2,13
+p_1399,r/movies,I honestly teared up during Pacific Rim. The relationship between the pilots is the emotional core. Just saying.,119,1769157520,112,Pacific Rim,4,28
+p_1312,r/movies,this says a lot about society. :),6,1771275096,33,Pacific Rim,3,3
+p_1180,r/movies,The romance subplot in Transformers was surprisingly tender amidst all the chaos. Totally agree.,284,1769590190,96,Transformers,4,15
+p_1458,r/movies,"The CGI holds up because the director understood weight, mass, and practical lighting. Totally agree.",122,1769902799,101,Godzilla 2000,1,0
+p_1495,r/movies,the action sequences in Godzilla 2000 are absolutely goated.,410,1770164840,60,Godzilla 2000,2,30
+p_1422,r/movies,"If you analyze the mechanical engineering represented in Godzilla 2000, it's surprisingly grounded. 🤷‍♂️",486,1771256385,104,Godzilla 2000,1,23
+p_1427,r/movies,Godzilla 2000 does a surprisingly good job of integrating the sci-fi tech into a believable near-future economy.,118,1769735704,112,Godzilla 2000,1,7
+p_1099,r/movies,"Watching Transformers makes me want to punch a wall, the soundtrack goes so hard. :)",1,1769541886,84,Transformers,2,19
+p_1153,r/movies,"People talk about the action, but Transformers is really a story about trauma and finding human connection. 🤷‍♂️",200,1770692288,112,Transformers,4,21
+p_1158,r/movies,"The true focus of Transformers is how tragedy unites humanity, not just the fighting. Imho.",24,1771536528,91,Transformers,4,21
+p_1281,r/movies,"I don't care about the plot holes, Pacific Rim is pure hype. Just saying.",241,1769734853,73,Pacific Rim,2,-1
+p_1041,r/movies,I appreciated how Transformers handled the scale and physics of the mecha designs. Totally agree.,300,1769570478,97,Transformers,1,-1
+p_1275,r/movies,10/10 popcorn flick. Pacific Rim never gets old.,274,1770860047,48,Pacific Rim,2,18
+p_1317,r/movies,I rate Pacific Rim 5/7 perfect score. Imho.,-40,1771542573,43,Pacific Rim,3,18
+p_1622,r/funny,This is just a test to see if my Reddit bot is working. Beep boop. lol.,-15,1770116720,71,,0,24
+p_1001,r/movies,The world-building in Transformers is genuinely fascinating if you look past the surface.,2,1770011909,89,Transformers,1,14
+p_1368,r/movies,I honestly teared up during Pacific Rim. The relationship between the pilots is the emotional core. Just saying.,139,1769262289,112,Pacific Rim,4,28
+p_1403,r/movies,"The true focus of Pacific Rim is how tragedy unites humanity, not just the fighting. 🤷‍♂️",431,1770475832,89,Pacific Rim,4,11
+p_1135,r/movies,"tbh Transformers was mid, they should have just used a nuke. Just saying.",1,1770789831,73,Transformers,3,-1
+p_1028,r/movies,I appreciated how Transformers handled the scale and physics of the mecha designs. Imho.,260,1769445447,88,Transformers,1,-1
+p_1139,r/movies,when the giant robot did the thing in Transformers I literally ascended 💀 Imho.,6,1769485012,79,Transformers,3,5
+p_1413,r/all,honestly pizza is overrated. don't @ me. anyone?,-44,1769090733,48,,0,18
+p_1375,r/movies,"I wish they spent more time on the characters in Pacific Rim, their backstory was heartbreaking. Totally agree.",211,1769132591,111,Pacific Rim,4,8
+p_1578,r/movies,"The true focus of Godzilla 2000 is how tragedy unites humanity, not just the fighting. :)",486,1770811005,89,Godzilla 2000,4,32
+p_1295,r/movies,10/10 popcorn flick. Pacific Rim never gets old. Totally agree.,189,1771371952,63,Pacific Rim,2,18
+p_1088,r/movies,10/10 popcorn flick. Transformers never gets old. Just saying.,93,1770608082,62,Transformers,2,17
+p_1430,r/movies,I appreciated how Godzilla 2000 handled the scale and physics of the mecha designs. 🤷‍♂️,11,1770407131,88,Godzilla 2000,1,-1
+p_1220,r/movies,"If you analyze the mechanical engineering represented in Pacific Rim, it's surprisingly grounded.",382,1770451942,97,Pacific Rim,1,-1
+p_1606,r/movies,The actor's chemistry in Godzilla 2000 was incredible. You could really feel their shared pain. :),246,1771261091,98,Godzilla 2000,4,22
+p_1059,r/movies,I saw Transformers in IMAX and the bass literally shook my seat. Insane movie. 🤷‍♂️,105,1769625335,83,Transformers,2,13
+p_1450,r/movies,"Say what you will about the plot, but the lore and the neural drift concepts in Godzilla 2000 are top-tier sci-fi. Imho.",419,1770892286,120,Godzilla 2000,1,27
+p_1286,r/movies,10/10 popcorn flick. Pacific Rim never gets old. Totally agree.,147,1770538214,63,Pacific Rim,2,18
+p_1258,r/movies,The world-building in Pacific Rim is genuinely fascinating if you look past the surface. Just saying.,311,1769995343,101,Pacific Rim,1,14
+p_1611,r/movies,"The true focus of Godzilla 2000 is how tragedy unites humanity, not just the fighting. Just saying.",494,1770018351,99,Godzilla 2000,4,32
+p_1163,r/movies,"I wish they spent more time on the characters in Transformers, their backstory was heartbreaking.",44,1770274729,97,Transformers,4,26
+p_1289,r/movies,10/10 popcorn flick. Pacific Rim never gets old. 🤷‍♂️,13,1771071171,53,Pacific Rim,2,18
+p_1570,r/movies,That final sacrifice scene in Godzilla 2000 broke me emotionally. Just saying.,496,1770250213,78,Godzilla 2000,4,10
+p_1538,r/movies,is Godzilla 2000 a jojo reference??? Totally agree.,-10,1770728445,51,Godzilla 2000,3,7
+p_1243,r/movies,Pacific Rim does a surprisingly good job of integrating the sci-fi tech into a believable near-future economy. Just saying.,453,1769314019,123,Pacific Rim,1,29
+p_1105,r/movies,this says a lot about society. 🤷‍♂️,-16,1769931833,35,Transformers,3,3
+p_1164,r/movies,"I wish they spent more time on the characters in Transformers, their backstory was heartbreaking. Imho.",102,1769777717,103,Transformers,4,26
+p_1628,r/funny,Anyone else here playing the new Zelda game instead?,-57,1771210494,52,,0,23
+p_1562,r/movies,is Godzilla 2000 a jojo reference??? 🤷‍♂️,-44,1770476924,41,Godzilla 2000,3,7
+p_1247,r/movies,Pacific Rim does a surprisingly good job of integrating the sci-fi tech into a believable near-future economy. :),278,1770223488,113,Pacific Rim,1,29
+p_1304,r/movies,the action sequences in Pacific Rim are absolutely goated. Imho.,396,1771189521,64,Pacific Rim,2,30
+p_1397,r/movies,"The true focus of Pacific Rim is how tragedy unites humanity, not just the fighting. :)",226,1771503221,87,Pacific Rim,4,11
+p_1360,r/movies,The actor's chemistry in Pacific Rim was incredible. You could really feel their shared pain.,117,1771603805,93,Pacific Rim,4,-1
+p_1434,r/movies,Godzilla 2000 does a surprisingly good job of integrating the sci-fi tech into a believable near-future economy. Imho.,265,1769106932,118,Godzilla 2000,1,7
+p_1022,r/movies,"Say what you will about the plot, but the lore and the neural drift concepts in Transformers are top-tier sci-fi. 🤷‍♂️",483,1769585407,118,Transformers,1,27
+p_1082,r/movies,I saw Transformers in IMAX and the bass literally shook my seat. Insane movie. Totally agree.,272,1771515479,93,Transformers,2,13
+p_1492,r/movies,"I don't care about the plot holes, Godzilla 2000 is pure hype. Imho.",204,1771463951,68,Godzilla 2000,2,32
+p_1356,r/movies,this says a lot about society. Just saying.,-41,1769584794,43,Pacific Rim,3,3
+p_1174,r/movies,That final sacrifice scene in Transformers broke me emotionally. Imho.,400,1769893203,70,Transformers,4,16
+p_1296,r/movies,I saw Pacific Rim in IMAX and the bass literally shook my seat. Insane movie. Imho.,298,1769754856,83,Pacific Rim,2,13
+p_1437,r/movies,The world-building in Godzilla 2000 is genuinely fascinating if you look past the surface. :),187,1771569837,93,Godzilla 2000,1,14
+p_1154,r/movies,The romance subplot in Transformers was surprisingly tender amidst all the chaos.,325,1770521522,81,Transformers,4,15
+p_1426,r/movies,Godzilla 2000 does a surprisingly good job of integrating the sci-fi tech into a believable near-future economy.,50,1770501089,112,Godzilla 2000,1,7
+p_1623,r/funny,Check out my soundcloud link in bio!,-71,1770078722,36,,0,19
+p_1536,r/movies,I rate Godzilla 2000 5/7 perfect score. Imho.,-23,1769075949,45,Godzilla 2000,3,18
+p_1541,r/movies,is Godzilla 2000 a jojo reference??? Just saying.,-19,1770906791,49,Godzilla 2000,3,7
+p_1226,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on. Totally agree.",96,1770956276,123,Pacific Rim,1,6
+p_1182,r/movies,"I wish they spent more time on the characters in Transformers, their backstory was heartbreaking. Totally agree.",70,1769730299,112,Transformers,4,26
+p_1465,r/movies,Godzilla 2000 does a surprisingly good job of integrating the sci-fi tech into a believable near-future economy. 🤷‍♂️,118,1769155362,117,Godzilla 2000,1,7
+p_1293,r/movies,10/10 popcorn flick. Pacific Rim never gets old. 🤷‍♂️,207,1770170703,53,Pacific Rim,2,18
+p_1085,r/movies,Giant robots fighting giant monsters. What more do you want from Transformers??,253,1770239137,79,Transformers,2,9
+p_1582,r/movies,The romance subplot in Godzilla 2000 was surprisingly tender amidst all the chaos. Totally agree.,21,1770634667,97,Godzilla 2000,4,15
+p_1146,r/movies,"tbh Transformers was mid, they should have just used a nuke. Just saying.",-38,1770227940,73,Transformers,3,-1
+p_1061,r/movies,10/10 popcorn flick. Transformers never gets old. Just saying.,58,1771265374,62,Transformers,2,17
+p_1472,r/movies,10/10 popcorn flick. Godzilla 2000 never gets old. 🤷‍♂️,269,1770017011,55,Godzilla 2000,2,17
+p_1590,r/movies,That final sacrifice scene in Godzilla 2000 broke me emotionally. Imho.,123,1770535784,71,Godzilla 2000,4,10
+p_1379,r/movies,That final sacrifice scene in Pacific Rim broke me emotionally.,299,1771421853,63,Pacific Rim,4,16
+p_1288,r/movies,"I don't care about the plot holes, Pacific Rim is pure hype. 🤷‍♂️",304,1770581333,65,Pacific Rim,2,-1
+p_1188,r/movies,The romance subplot in Transformers was surprisingly tender amidst all the chaos. Imho.,371,1771148389,87,Transformers,4,15
+p_1341,r/movies,is Pacific Rim a jojo reference??? 🤷‍♂️,-28,1771274933,39,Pacific Rim,3,8
+p_1043,r/movies,"Say what you will about the plot, but the lore and the neural drift concepts in Transformers are top-tier sci-fi. Imho.",482,1771175872,119,Transformers,1,27
+p_1242,r/movies,The world-building in Pacific Rim is genuinely fascinating if you look past the surface. :),409,1770577985,91,Pacific Rim,1,14
+p_1322,r/movies,POV: you're trying to watch Pacific Rim but the plot is missing. Just saying.,-47,1769556961,77,Pacific Rim,3,31
+p_1553,r/movies,when the giant robot did the thing in Godzilla 2000 I literally ascended 💀 Just saying.,-21,1769954996,87,Godzilla 2000,3,25
+p_1509,r/movies,"I don't care about the plot holes, Godzilla 2000 is pure hype. Just saying.",67,1769420818,75,Godzilla 2000,2,32
+p_1025,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on. Totally agree.",86,1769875082,123,Transformers,1,6
+p_1364,r/movies,The romance subplot in Pacific Rim was surprisingly tender amidst all the chaos.,253,1770624320,80,Pacific Rim,4,15
+p_1625,r/AskReddit,First! anyone?,-55,1770318172,14,,0,25
+p_1323,r/movies,"tbh Pacific Rim was mid, they should have just used a nuke. Imho.",-2,1771511539,65,Pacific Rim,3,1
+p_1340,r/movies,"tbh Pacific Rim was mid, they should have just used a nuke. Imho.",-39,1770445290,65,Pacific Rim,3,1
+p_1048,r/movies,"Say what you will about the plot, but the lore and the neural drift concepts in Transformers are top-tier sci-fi. Totally agree.",295,1769236864,128,Transformers,1,27
+p_1471,r/movies,"Watching Godzilla 2000 makes me want to punch a wall, the soundtrack goes so hard. 🤷‍♂️",34,1770411732,87,Godzilla 2000,2,19
+p_1208,r/all,honestly pizza is overrated. don't @ me. anyone?,-74,1771144681,48,,0,18
+p_1528,r/movies,POV: you're trying to watch Godzilla 2000 but the plot is missing. Imho.,29,1770870505,72,Godzilla 2000,3,31
+p_1412,r/funny,honestly pizza is overrated. don't @ me. lol.,-26,1769889871,45,,0,18
+p_1309,r/movies,"I don't care about the plot holes, Pacific Rim is pure hype. Just saying.",297,1769722700,73,Pacific Rim,2,-1
+p_1285,r/movies,the action sequences in Pacific Rim are absolutely goated. Imho.,326,1771216276,64,Pacific Rim,2,30
+p_1479,r/movies,Giant robots fighting giant monsters. What more do you want from Godzilla 2000??,269,1769871587,80,Godzilla 2000,2,9
+p_1149,r/movies,when the giant robot did the thing in Transformers I literally ascended 💀 🤷‍♂️,-41,1771163240,78,Transformers,3,5
+p_1405,r/movies,"People talk about the action, but Pacific Rim is really a story about trauma and finding human connection. Totally agree.",384,1771403231,121,Pacific Rim,4,11
+p_1604,r/movies,"The true focus of Godzilla 2000 is how tragedy unites humanity, not just the fighting. 🤷‍♂️",56,1769179581,91,Godzilla 2000,4,32
+p_1046,r/movies,Transformers does a surprisingly good job of integrating the sci-fi tech into a believable near-future economy.,150,1771250862,111,Transformers,1,14
+p_1017,r/movies,"If you analyze the mechanical engineering represented in Transformers, it's surprisingly grounded. Totally agree.",355,1770811294,113,Transformers,1,29
+p_1603,r/movies,The actor's chemistry in Godzilla 2000 was incredible. You could really feel their shared pain. Just saying.,343,1770948074,108,Godzilla 2000,4,22
+p_1448,r/movies,I appreciated how Godzilla 2000 handled the scale and physics of the mecha designs. Totally agree.,300,1771311858,98,Godzilla 2000,1,-1
+p_1072,r/movies,"bro Transformers is literal fire, just turn your brain off and enjoy the explosions 🔥 Just saying.",269,1771452749,98,Transformers,2,20
+p_1620,r/all,Anyone else here playing the new Zelda game instead? sigh.,-85,1770416034,58,,0,23
+p_1052,r/movies,"Watching Transformers makes me want to punch a wall, the soundtrack goes so hard.",267,1769138966,81,Transformers,2,19
+p_1557,r/movies,is Godzilla 2000 a jojo reference???,25,1771253519,36,Godzilla 2000,3,7
+p_1216,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on. Just saying.",136,1771453134,121,Pacific Rim,1,6
+p_1366,r/movies,The actor's chemistry in Pacific Rim was incredible. You could really feel their shared pain. Imho.,34,1769247963,99,Pacific Rim,4,-1
+p_1178,r/movies,I honestly teared up during Transformers. The relationship between the pilots is the emotional core. 🤷‍♂️,234,1770037201,105,Transformers,4,28
+p_1306,r/movies,Giant robots fighting giant monsters. What more do you want from Pacific Rim?? Totally agree.,52,1771010993,93,Pacific Rim,2,9
+p_1380,r/movies,I honestly teared up during Pacific Rim. The relationship between the pilots is the emotional core.,286,1769710428,99,Pacific Rim,4,28
+p_1440,r/movies,"The CGI holds up because the director understood weight, mass, and practical lighting. Just saying.",493,1769131146,99,Godzilla 2000,1,0
+p_1157,r/movies,The romance subplot in Transformers was surprisingly tender amidst all the chaos. 🤷‍♂️,171,1771481292,86,Transformers,4,15
+p_1101,r/movies,when the giant robot did the thing in Transformers I literally ascended 💀,28,1771036501,73,Transformers,3,5
+p_1408,r/movies,The actor's chemistry in Pacific Rim was incredible. You could really feel their shared pain. :),165,1770777391,96,Pacific Rim,4,-1
+p_1160,r/movies,"The true focus of Transformers is how tragedy unites humanity, not just the fighting. Totally agree.",125,1770080179,100,Transformers,4,21
+p_1621,r/AskReddit,I lost my car keys today and I am so mad. sigh.,-72,1769591341,47,,0,25
+p_1319,r/movies,when the giant robot did the thing in Pacific Rim I literally ascended 💀 Imho.,45,1769723343,78,Pacific Rim,3,30
+p_1377,r/movies,"I wish they spent more time on the characters in Pacific Rim, their backstory was heartbreaking. 🤷‍♂️",371,1770888914,101,Pacific Rim,4,8
+p_1436,r/movies,I appreciated how Godzilla 2000 handled the scale and physics of the mecha designs. Just saying.,212,1769812426,96,Godzilla 2000,1,-1
+p_1423,r/movies,"If you analyze the mechanical engineering represented in Godzilla 2000, it's surprisingly grounded. Totally agree.",487,1769252397,114,Godzilla 2000,1,23
+p_1487,r/movies,10/10 popcorn flick. Godzilla 2000 never gets old.,421,1769066218,50,Godzilla 2000,2,17
+p_1513,r/movies,"bro Godzilla 2000 is literal fire, just turn your brain off and enjoy the explosions 🔥 :)",259,1771403625,89,Godzilla 2000,2,20
+p_1467,r/movies,"Say what you will about the plot, but the lore and the neural drift concepts in Godzilla 2000 are top-tier sci-fi. Imho.",219,1769471689,120,Godzilla 2000,1,27
+p_1129,r/movies,is Transformers a jojo reference??? :),-42,1770469778,38,Transformers,3,7
+p_1518,r/movies,the action sequences in Godzilla 2000 are absolutely goated. :),439,1771075529,63,Godzilla 2000,2,30
+p_1006,r/movies,Transformers does a surprisingly good job of integrating the sci-fi tech into a believable near-future economy. Totally agree.,148,1769453830,126,Transformers,1,14
+p_1554,r/movies,"tbh Godzilla 2000 was mid, they should have just used a nuke. :)",-44,1771214320,64,Godzilla 2000,3,7
+p_1209,r/all,Anyone else here playing the new Zelda game instead? anyone?,-69,1770565383,60,,0,23
+p_1494,r/movies,"Watching Godzilla 2000 makes me want to punch a wall, the soundtrack goes so hard. 🤷‍♂️",265,1770360559,87,Godzilla 2000,2,19
+p_1083,r/movies,the action sequences in Transformers are absolutely goated. Imho.,337,1769524671,65,Transformers,2,-1
+p_1313,r/movies,is Pacific Rim a jojo reference??? :),-38,1770530200,37,Pacific Rim,3,8
+p_1508,r/movies,"bro Godzilla 2000 is literal fire, just turn your brain off and enjoy the explosions 🔥 Totally agree.",419,1769555730,101,Godzilla 2000,2,20
+p_1559,r/movies,when the giant robot did the thing in Godzilla 2000 I literally ascended 💀 Just saying.,-4,1769498102,87,Godzilla 2000,3,25
+p_1468,r/movies,"If you analyze the mechanical engineering represented in Godzilla 2000, it's surprisingly grounded. Just saying.",11,1769657653,112,Godzilla 2000,1,23
+p_1165,r/movies,"People talk about the action, but Transformers is really a story about trauma and finding human connection. Imho.",462,1770302334,113,Transformers,4,21
+p_1483,r/movies,"I don't care about the plot holes, Godzilla 2000 is pure hype. Totally agree.",21,1769420109,77,Godzilla 2000,2,32
+p_1507,r/movies,I saw Godzilla 2000 in IMAX and the bass literally shook my seat. Insane movie. Imho.,124,1770410133,85,Godzilla 2000,2,12
+p_1575,r/movies,I honestly teared up during Godzilla 2000. The relationship between the pilots is the emotional core. Imho.,43,1769359411,107,Godzilla 2000,4,28
+p_1035,r/movies,The world-building in Transformers is genuinely fascinating if you look past the surface. Imho.,106,1771249692,95,Transformers,1,14
+p_1237,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on. 🤷‍♂️",496,1769077718,113,Pacific Rim,1,2
+p_1118,r/movies,I rate Transformers 5/7 perfect score. 🤷‍♂️,38,1770215771,43,Transformers,3,18
+p_1382,r/movies,I honestly teared up during Pacific Rim. The relationship between the pilots is the emotional core. Just saying.,43,1771485415,112,Pacific Rim,4,28
+p_1330,r/movies,this says a lot about society. 🤷‍♂️,-38,1769892232,35,Pacific Rim,3,3
+p_1497,r/movies,Giant robots fighting giant monsters. What more do you want from Godzilla 2000??,163,1769427719,80,Godzilla 2000,2,9
+p_1204,r/funny,First! sigh.,-76,1770498433,12,,0,25
+p_1152,r/movies,The romance subplot in Transformers was surprisingly tender amidst all the chaos. Imho.,38,1769984986,87,Transformers,4,15
+p_1391,r/movies,"I wish they spent more time on the characters in Pacific Rim, their backstory was heartbreaking. Just saying.",72,1771356392,109,Pacific Rim,4,8
+p_1520,r/movies,"tbh Godzilla 2000 was mid, they should have just used a nuke. 🤷‍♂️",-6,1770356633,66,Godzilla 2000,3,7
+p_1278,r/movies,Giant robots fighting giant monsters. What more do you want from Pacific Rim?? Totally agree.,294,1771233373,93,Pacific Rim,2,9
+p_1318,r/movies,this says a lot about society. Imho.,3,1769210499,36,Pacific Rim,3,3
+p_1501,r/movies,Giant robots fighting giant monsters. What more do you want from Godzilla 2000?? :),415,1771507760,83,Godzilla 2000,2,9
+p_1568,r/movies,POV: you're trying to watch Godzilla 2000 but the plot is missing. :),49,1769332111,69,Godzilla 2000,3,31
+p_1284,r/movies,I saw Pacific Rim in IMAX and the bass literally shook my seat. Insane movie.,161,1771337648,77,Pacific Rim,2,13
+p_1123,r/movies,is Transformers a jojo reference??? Just saying.,30,1770727603,48,Transformers,3,7
+p_1384,r/movies,"People talk about the action, but Pacific Rim is really a story about trauma and finding human connection.",172,1769107654,106,Pacific Rim,4,11
+p_1529,r/movies,"tbh Godzilla 2000 was mid, they should have just used a nuke. :)",-10,1770252384,64,Godzilla 2000,3,7
+p_1452,r/movies,"Say what you will about the plot, but the lore and the neural drift concepts in Godzilla 2000 are top-tier sci-fi. Just saying.",406,1769042007,127,Godzilla 2000,1,27
+p_1248,r/movies,Pacific Rim does a surprisingly good job of integrating the sci-fi tech into a believable near-future economy. Imho.,412,1770705964,116,Pacific Rim,1,29
+p_1019,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on. Totally agree.",159,1770740273,123,Transformers,1,6
+p_1514,r/movies,the action sequences in Godzilla 2000 are absolutely goated. :),440,1769925411,63,Godzilla 2000,2,30
+p_1558,r/movies,I rate Godzilla 2000 5/7 perfect score. :),27,1770262656,42,Godzilla 2000,3,18
+p_1128,r/movies,me watching Transformers: haha robot go brrrrr 😂,-18,1769736399,48,Transformers,3,24
+p_1539,r/movies,"tbh Godzilla 2000 was mid, they should have just used a nuke. Totally agree.",-6,1769742556,76,Godzilla 2000,3,7
+p_1068,r/movies,10/10 popcorn flick. Transformers never gets old. Imho.,288,1770053508,55,Transformers,2,17
+p_1438,r/movies,Godzilla 2000 does a surprisingly good job of integrating the sci-fi tech into a believable near-future economy. :),139,1769278068,115,Godzilla 2000,1,7
+p_1011,r/movies,I appreciated how Transformers handled the scale and physics of the mecha designs. Imho.,462,1769796505,88,Transformers,1,-1
+p_1214,r/movies,"If you analyze the mechanical engineering represented in Pacific Rim, it's surprisingly grounded. 🤷‍♂️",248,1771125816,102,Pacific Rim,1,-1
+p_1276,r/movies,"I don't care about the plot holes, Pacific Rim is pure hype.",183,1769943929,60,Pacific Rim,2,-1
+p_1263,r/movies,"Watching Pacific Rim makes me want to punch a wall, the soundtrack goes so hard. 🤷‍♂️",8,1771332062,85,Pacific Rim,2,19
+p_1446,r/movies,"Say what you will about the plot, but the lore and the neural drift concepts in Godzilla 2000 are top-tier sci-fi. :)",315,1771629981,117,Godzilla 2000,1,27
+p_1193,r/movies,That final sacrifice scene in Transformers broke me emotionally. 🤷‍♂️,-4,1769910702,69,Transformers,4,16
+p_1094,r/movies,"Watching Transformers makes me want to punch a wall, the soundtrack goes so hard. Imho.",426,1771550278,87,Transformers,2,19
+p_1038,r/movies,The world-building in Transformers is genuinely fascinating if you look past the surface.,230,1769556726,89,Transformers,1,14
+p_1505,r/movies,I saw Godzilla 2000 in IMAX and the bass literally shook my seat. Insane movie. Imho.,497,1769562382,85,Godzilla 2000,2,12
+p_1474,r/movies,10/10 popcorn flick. Godzilla 2000 never gets old. Totally agree.,421,1770213142,65,Godzilla 2000,2,17
+p_1395,r/movies,"I wish they spent more time on the characters in Pacific Rim, their backstory was heartbreaking. Just saying.",190,1770982022,109,Pacific Rim,4,8
+p_1024,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on.",490,1769959796,108,Transformers,1,6
+p_1023,r/movies,"If you analyze the mechanical engineering represented in Transformers, it's surprisingly grounded. :)",258,1769197295,101,Transformers,1,29
+p_1616,r/movies,The romance subplot in Godzilla 2000 was surprisingly tender amidst all the chaos. Just saying.,94,1770070447,95,Godzilla 2000,4,15
+p_1185,r/movies,The romance subplot in Transformers was surprisingly tender amidst all the chaos. Totally agree.,329,1770744075,96,Transformers,4,15
+p_1141,r/movies,POV: you're trying to watch Transformers but the plot is missing.,-38,1771582450,65,Transformers,3,31
+p_1615,r/movies,The romance subplot in Godzilla 2000 was surprisingly tender amidst all the chaos.,28,1769087650,82,Godzilla 2000,4,15
+p_1409,r/movies,That final sacrifice scene in Pacific Rim broke me emotionally. Just saying.,207,1769203234,76,Pacific Rim,4,16
+p_1090,r/movies,Giant robots fighting giant monsters. What more do you want from Transformers?? Imho.,463,1771000388,85,Transformers,2,9
+p_1269,r/movies,"Watching Pacific Rim makes me want to punch a wall, the soundtrack goes so hard. Totally agree.",45,1771571151,95,Pacific Rim,2,19
+p_1447,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on. :)",72,1771260879,111,Godzilla 2000,1,2
+p_1358,r/movies,"tbh Pacific Rim was mid, they should have just used a nuke.",14,1771504854,59,Pacific Rim,3,1
+p_1262,r/movies,"Watching Pacific Rim makes me want to punch a wall, the soundtrack goes so hard. :)",212,1771332393,83,Pacific Rim,2,19
+p_1229,r/movies,"If you analyze the mechanical engineering represented in Pacific Rim, it's surprisingly grounded. Totally agree.",100,1770760717,112,Pacific Rim,1,-1
+p_1231,r/movies,I appreciated how Pacific Rim handled the scale and physics of the mecha designs. 🤷‍♂️,153,1770672124,86,Pacific Rim,1,4
+p_1624,r/funny,Did you guys hear about the stock market crash? anyone?,-78,1770445737,55,,0,-1
+p_1169,r/movies,I honestly teared up during Transformers. The relationship between the pilots is the emotional core.,189,1770171470,100,Transformers,4,28
+p_1270,r/movies,the action sequences in Pacific Rim are absolutely goated. Just saying.,60,1769887618,71,Pacific Rim,2,30
+p_1456,r/movies,"If you analyze the mechanical engineering represented in Godzilla 2000, it's surprisingly grounded. Just saying.",118,1771370847,112,Godzilla 2000,1,23
+p_1401,r/movies,"People talk about the action, but Pacific Rim is really a story about trauma and finding human connection.",209,1771614413,106,Pacific Rim,4,11
+p_1463,r/movies,"If you analyze the mechanical engineering represented in Godzilla 2000, it's surprisingly grounded. 🤷‍♂️",114,1771610522,104,Godzilla 2000,1,23
+p_1443,r/movies,The world-building in Godzilla 2000 is genuinely fascinating if you look past the surface. 🤷‍♂️,49,1771285272,95,Godzilla 2000,1,14
+p_1027,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on. :)",131,1771153416,111,Transformers,1,2
+p_1451,r/movies,Godzilla 2000 does a surprisingly good job of integrating the sci-fi tech into a believable near-future economy. Just saying.,468,1769325434,125,Godzilla 2000,1,7
+p_1387,r/movies,"People talk about the action, but Pacific Rim is really a story about trauma and finding human connection. 🤷‍♂️",144,1769441458,111,Pacific Rim,4,11
+p_1548,r/movies,I rate Godzilla 2000 5/7 perfect score. :),-48,1771130198,42,Godzilla 2000,3,18
+p_1352,r/movies,this says a lot about society. 🤷‍♂️,-34,1770650831,35,Pacific Rim,3,3
+p_1207,r/all,Anyone else here playing the new Zelda game instead? anyone?,-74,1769924883,60,,0,23
+p_1599,r/movies,The romance subplot in Godzilla 2000 was surprisingly tender amidst all the chaos. Totally agree.,472,1771328797,97,Godzilla 2000,4,15
+p_1555,r/movies,I rate Godzilla 2000 5/7 perfect score. Just saying.,19,1769886519,52,Godzilla 2000,3,18
+p_1299,r/movies,I saw Pacific Rim in IMAX and the bass literally shook my seat. Insane movie.,194,1769586366,77,Pacific Rim,2,13
+p_1552,r/movies,this says a lot about society. 🤷‍♂️,-40,1769090644,35,Godzilla 2000,3,3
+p_1009,r/movies,"If you analyze the mechanical engineering represented in Transformers, it's surprisingly grounded. Imho.",341,1769201253,104,Transformers,1,29
+p_1055,r/movies,"I don't care about the plot holes, Transformers is pure hype. :)",407,1770271805,64,Transformers,2,26
+p_1566,r/movies,POV: you're trying to watch Godzilla 2000 but the plot is missing.,-40,1769776816,66,Godzilla 2000,3,31
+p_1627,r/AskReddit,First!,-42,1771326222,6,,0,25
+p_1362,r/movies,I honestly teared up during Pacific Rim. The relationship between the pilots is the emotional core.,134,1771286014,99,Pacific Rim,4,28
+p_1117,r/movies,"tbh Transformers was mid, they should have just used a nuke. Totally agree.",-45,1769914938,75,Transformers,3,-1
+p_1167,r/movies,The actor's chemistry in Transformers was incredible. You could really feel their shared pain. Imho.,423,1769533211,100,Transformers,4,-1
+p_1096,r/movies,the action sequences in Transformers are absolutely goated. :),330,1770104226,62,Transformers,2,-1
+p_1012,r/movies,"Say what you will about the plot, but the lore and the neural drift concepts in Transformers are top-tier sci-fi. 🤷‍♂️",487,1770695035,118,Transformers,1,27
+p_1177,r/movies,The actor's chemistry in Transformers was incredible. You could really feel their shared pain. 🤷‍♂️,183,1769602448,99,Transformers,4,-1
+p_1040,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on. 🤷‍♂️",266,1770785010,113,Transformers,1,2
+p_1020,r/movies,"If you analyze the mechanical engineering represented in Transformers, it's surprisingly grounded. Imho.",-4,1770335782,104,Transformers,1,29
+p_1217,r/movies,"If you analyze the mechanical engineering represented in Pacific Rim, it's surprisingly grounded. :)",189,1769301075,100,Pacific Rim,1,-1
+p_1070,r/movies,the action sequences in Transformers are absolutely goated. Imho.,140,1769191337,65,Transformers,2,-1
+p_1583,r/movies,"The true focus of Godzilla 2000 is how tragedy unites humanity, not just the fighting. Just saying.",370,1770961479,99,Godzilla 2000,4,32
+p_1477,r/movies,10/10 popcorn flick. Godzilla 2000 never gets old. 🤷‍♂️,381,1769406178,55,Godzilla 2000,2,17
+p_1424,r/movies,"Say what you will about the plot, but the lore and the neural drift concepts in Godzilla 2000 are top-tier sci-fi. Totally agree.",238,1769103779,129,Godzilla 2000,1,27
+p_1294,r/movies,I saw Pacific Rim in IMAX and the bass literally shook my seat. Insane movie. Imho.,93,1769688270,83,Pacific Rim,2,13
+p_1007,r/movies,Transformers does a surprisingly good job of integrating the sci-fi tech into a believable near-future economy. Imho.,133,1770489466,117,Transformers,1,14
+p_1044,r/movies,Transformers does a surprisingly good job of integrating the sci-fi tech into a believable near-future economy. Totally agree.,-3,1771077578,126,Transformers,1,14
+p_1168,r/movies,"I wish they spent more time on the characters in Transformers, their backstory was heartbreaking. :)",361,1770259548,100,Transformers,4,26
+p_1064,r/movies,I saw Transformers in IMAX and the bass literally shook my seat. Insane movie. Totally agree.,56,1770650414,93,Transformers,2,13
+p_1039,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on. :)",-2,1770544177,111,Transformers,1,2
+p_1598,r/movies,The actor's chemistry in Godzilla 2000 was incredible. You could really feel their shared pain.,364,1770079565,95,Godzilla 2000,4,22
+p_1561,r/movies,"tbh Godzilla 2000 was mid, they should have just used a nuke. Imho.",11,1770515712,67,Godzilla 2000,3,7
+p_1389,r/movies,That final sacrifice scene in Pacific Rim broke me emotionally. Just saying.,450,1771136961,76,Pacific Rim,4,16
+p_1457,r/movies,"Say what you will about the plot, but the lore and the neural drift concepts in Godzilla 2000 are top-tier sci-fi.",12,1770525250,114,Godzilla 2000,1,27
+p_1140,r/movies,me watching Transformers: haha robot go brrrrr 😂 🤷‍♂️,5,1770369184,53,Transformers,3,24
+p_1470,r/movies,I saw Godzilla 2000 in IMAX and the bass literally shook my seat. Insane movie.,7,1769803151,79,Godzilla 2000,2,12
+p_1119,r/movies,me watching Transformers: haha robot go brrrrr 😂,29,1770010542,48,Transformers,3,24
+p_1321,r/movies,"tbh Pacific Rim was mid, they should have just used a nuke. Just saying.",-29,1770813663,72,Pacific Rim,3,1
+p_1585,r/movies,"People talk about the action, but Godzilla 2000 is really a story about trauma and finding human connection. 🤷‍♂️",419,1771349007,113,Godzilla 2000,4,32
+p_1342,r/movies,when the giant robot did the thing in Pacific Rim I literally ascended 💀 :),-28,1770898271,75,Pacific Rim,3,30
+p_1475,r/movies,Giant robots fighting giant monsters. What more do you want from Godzilla 2000?? Imho.,252,1769280103,86,Godzilla 2000,2,9
+p_1374,r/movies,"The true focus of Pacific Rim is how tragedy unites humanity, not just the fighting. 🤷‍♂️",118,1769225770,89,Pacific Rim,4,11
+p_1417,r/funny,I lost my car keys today and I am so mad. anyone?,-7,1770884196,49,,0,25
+p_1473,r/movies,"I don't care about the plot holes, Godzilla 2000 is pure hype. Just saying.",197,1769466143,75,Godzilla 2000,2,32
+p_1251,r/movies,"The CGI holds up because the director understood weight, mass, and practical lighting. :)",464,1769504497,89,Pacific Rim,1,0
+p_1346,r/movies,when the giant robot did the thing in Pacific Rim I literally ascended 💀 :),23,1770800807,75,Pacific Rim,3,30
+p_1114,r/movies,me watching Transformers: haha robot go brrrrr 😂 :),32,1770553004,51,Transformers,3,24
+p_1597,r/movies,I honestly teared up during Godzilla 2000. The relationship between the pilots is the emotional core. :),383,1770080318,104,Godzilla 2000,4,28
+p_1584,r/movies,"I wish they spent more time on the characters in Godzilla 2000, their backstory was heartbreaking. Imho.",414,1770157949,104,Godzilla 2000,4,32
+p_1145,r/movies,"tbh Transformers was mid, they should have just used a nuke. Just saying.",-2,1771072856,73,Transformers,3,-1
+p_1104,r/movies,when the giant robot did the thing in Transformers I literally ascended 💀,12,1770224293,73,Transformers,3,5
+p_1337,r/movies,I rate Pacific Rim 5/7 perfect score. 🤷‍♂️,50,1769570920,42,Pacific Rim,3,18
+p_1490,r/movies,"I don't care about the plot holes, Godzilla 2000 is pure hype. 🤷‍♂️",115,1769907553,67,Godzilla 2000,2,32
+p_1344,r/movies,POV: you're trying to watch Pacific Rim but the plot is missing. Just saying.,21,1770618567,77,Pacific Rim,3,31
+p_1339,r/movies,when the giant robot did the thing in Pacific Rim I literally ascended 💀 Imho.,46,1770132997,78,Pacific Rim,3,30
+p_1170,r/movies,That final sacrifice scene in Transformers broke me emotionally. Just saying.,251,1769188568,77,Transformers,4,16
+p_1259,r/movies,"If you analyze the mechanical engineering represented in Pacific Rim, it's surprisingly grounded.",2,1771297438,97,Pacific Rim,1,-1
+p_1353,r/movies,"tbh Pacific Rim was mid, they should have just used a nuke. Totally agree.",26,1769170026,74,Pacific Rim,3,1
+p_1560,r/movies,is Godzilla 2000 a jojo reference??? :),44,1770427866,39,Godzilla 2000,3,7
+p_1311,r/movies,I rate Pacific Rim 5/7 perfect score. 🤷‍♂️,11,1770252287,42,Pacific Rim,3,18
+p_1420,r/movies,"Say what you will about the plot, but the lore and the neural drift concepts in Godzilla 2000 are top-tier sci-fi. 🤷‍♂️",315,1770981730,119,Godzilla 2000,1,27
+p_1372,r/movies,The romance subplot in Pacific Rim was surprisingly tender amidst all the chaos. Totally agree.,348,1770864178,95,Pacific Rim,4,15
+p_1065,r/movies,the action sequences in Transformers are absolutely goated. Imho.,76,1770092178,65,Transformers,2,-1
+p_1543,r/movies,me watching Godzilla 2000: haha robot go brrrrr 😂 Just saying.,-13,1770206093,62,Godzilla 2000,3,24
+p_1576,r/movies,The actor's chemistry in Godzilla 2000 was incredible. You could really feel their shared pain. :),208,1770015338,98,Godzilla 2000,4,22
+p_1407,r/movies,"The true focus of Pacific Rim is how tragedy unites humanity, not just the fighting. Totally agree.",120,1769342312,99,Pacific Rim,4,11
+p_1349,r/movies,I rate Pacific Rim 5/7 perfect score. 🤷‍♂️,-27,1771207736,42,Pacific Rim,3,18
+p_1425,r/movies,I appreciated how Godzilla 2000 handled the scale and physics of the mecha designs. 🤷‍♂️,370,1770726519,88,Godzilla 2000,1,-1
+p_1162,r/movies,"I wish they spent more time on the characters in Transformers, their backstory was heartbreaking. Imho.",292,1770171664,103,Transformers,4,26
+p_1454,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on. Imho.",248,1770482390,114,Godzilla 2000,1,6
+p_1310,r/movies,POV: you're trying to watch Pacific Rim but the plot is missing. :),1,1770352769,67,Pacific Rim,3,31
+p_1235,r/movies,"The CGI holds up because the director understood weight, mass, and practical lighting. Imho.",164,1771030649,92,Pacific Rim,1,0
+p_1205,r/all,First! lol.,-85,1771465895,11,,0,25
+p_1429,r/movies,"It's a masterclass in visual storytelling, particularly how the scale of the threat is established early on. :)",436,1769208072,111,Godzilla 2000,1,2
+p_1493,r/movies,I saw Godzilla 2000 in IMAX and the bass literally shook my seat. Insane movie. Just saying.,388,1769195077,92,Godzilla 2000,2,12
+p_1176,r/movies,"People talk about the action, but Transformers is really a story about trauma and finding human connection. Imho.",11,1771625196,113,Transformers,4,21
+p_1223,r/movies,Pacific Rim does a surprisingly good job of integrating the sci-fi tech into a believable near-future economy. Imho.,301,1771270105,116,Pacific Rim,1,29
+p_1314,r/movies,this says a lot about society. Totally agree.,-39,1770301442,45,Pacific Rim,3,3
+p_1184,r/movies,The romance subplot in Transformers was surprisingly tender amidst all the chaos. 🤷‍♂️,412,1770583720,86,Transformers,4,15
+p_1002,r/movies,"If you analyze the mechanical engineering represented in Transformers, it's surprisingly grounded. :)",201,1771203485,101,Transformers,1,29
+p_1291,r/movies,"bro Pacific Rim is literal fire, just turn your brain off and enjoy the explosions 🔥 Totally agree.",371,1770308821,99,Pacific Rim,2,20
+p_1087,r/movies,"I don't care about the plot holes, Transformers is pure hype. Totally agree.",111,1770483194,76,Transformers,2,26
+p_1109,r/movies,when the giant robot did the thing in Transformers I literally ascended 💀 Just saying.,-7,1769788266,86,Transformers,3,5
+p_1202,r/AskReddit,Did you guys hear about the stock market crash? anyone?,-71,1769645236,55,,0,-1
+p_1066,r/movies,"Watching Transformers makes me want to punch a wall, the soundtrack goes so hard. :)",332,1770316792,84,Transformers,2,19
+p_1502,r/movies,"I don't care about the plot holes, Godzilla 2000 is pure hype.",-5,1771562667,62,Godzilla 2000,2,32

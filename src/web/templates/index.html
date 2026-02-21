@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Film Intelligence Pipeline</title>
+    <!-- Modern Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/style.css">
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <!-- Background Animated Gradient -->
+    <div class="bg-gradient"></div>
+
+    <div class="container">
+        <header>
+            <h1><i class="fa-solid fa-film"></i> Film Intelligence</h1>
+            <p>Compute thematic resonance, similarity, and audience affinity.</p>
+        </header>
+
+        <!-- Main Workspace -->
+        <main>
+            <!-- Panel 1: Configuration & Upload -->
+            <section class="glass-panel" id="upload-section">
+                <h2>1. Setup Pipeline</h2>
+                <form id="pipeline-form">
+
+                    <div class="form-group">
+                        <label for="object-categories">Object Categories (comma separated)</label>
+                        <input type="text" id="object-categories"
+                            value="robot, weapon, explosion, vehicle, armor, city, space, military, mecha">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="scene-categories">Scene Categories (comma separated)</label>
+                        <input type="text" id="scene-categories"
+                            value="battle, space, science lab, destruction, futuristic city, desert">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="custom-actions">Custom Actions (comma separated)</label>
+                        <input type="text" id="custom-actions"
+                            value="running, shooting, transforming, exploding, fighting">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="custom-themes">Custom Themes (comma separated)</label>
+                        <input type="text" id="custom-themes"
+                            value="AI takeover, alien invasion, heroism, sacrifice, giant monsters">
+                    </div>
+
+                    <div class="form-group upload-box">
+                        <label for="video-upload" class="upload-label">
+                            <i class="fa-solid fa-cloud-arrow-up"></i>
+                            <span id="file-name">Choose Trailer (MP4)...</span>
+                        </label>
+                        <input type="file" id="video-upload" accept="video/mp4" required>
+                    </div>
+
+                    <button type="submit" id="btn-fingerprint" class="btn-primary">
+                        <i class="fa-solid fa-microchip"></i> Start Fingerprinting
+                    </button>
+
+                    <div id="loading-indicator" class="hidden">
+                        <div class="spinner"></div>
+                        <div class="progress-bar-container">
+                            <div id="progress-bar" class="progress-bar"></div>
+                        </div>
+                        <p id="progress-text">Processing frames, audio, and concepts... This will take a moment.</p>
+                    </div>
+                    <div id="upload-status" class="status-message"></div>
+                </form>
+            </section>
+
+            <!-- Panel 2: Analysis Dashboard (Hidden initially) -->
+            <section class="glass-panel hidden" id="dashboard-section">
+                <h2>2. Analysis Dashboard</h2>
+                <div class="dashboard-controls">
+                    <button id="btn-similarity" class="btn-secondary">
+                        <i class="fa-solid fa-layer-group"></i> Analyze Similarity
+                    </button>
+                    <button id="btn-personas" class="btn-secondary">
+                        <i class="fa-solid fa-users-viewfinder"></i> Generate Personas
+                    </button>
+                </div>
+
+                <!-- Similarity Results Area -->
+                <div id="similarity-results" class="results-area hidden">
+                    <h3>Top 10 Similar Movies</h3>
+                    <div class="similarity-grid" id="similarity-grid">
+                        <!-- JS injects cards here -->
+                    </div>
+                </div>
+
+                <!-- Persona Results Area -->
+                <div id="persona-results" class="results-area hidden">
+                    <h3>Audience Affinity & Demographics</h3>
+                    <div class="persona-grid" id="persona-grid">
+                        <!-- JS injects persona cards here -->
+                    </div>
+                </div>
+
+            </section>
+        </main>
+    </div>
+
+    <script src="/static/js/app.js"></script>
+</body>
+
+</html>

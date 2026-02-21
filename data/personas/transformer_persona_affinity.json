@@ -1,0 +1,204 @@
+{
+    "movie_source": "sample.mp4 (Transformers)",
+    "generated_trailer_context": "A Drama and Thriller and Horror and Action and Adventure film or trailer. It features themes like transforming robot, transforming machine, battle robot, giant robot, robot vehicle, battle, dark scene, group of people, fire, explosion, light, scientist, human, destruction, battle scene.",
+    "matched_personas": [
+        {
+            "cluster_id": 21,
+            "persona_summary": "Persona Cluster 21: [action, action transformers, connection, finding, finding human]",
+            "comment_count": 13,
+            "affinity_score": 0.5320737361907959
+        },
+        {
+            "cluster_id": 27,
+            "persona_summary": "Persona Cluster 27: [2000, 2000 tier, concepts godzilla, godzilla, godzilla 2000]",
+            "comment_count": 16,
+            "affinity_score": 0.45193779468536377
+        },
+        {
+            "cluster_id": 15,
+            "persona_summary": "Persona Cluster 15: [subplot transformers, transformers, transformers surprisingly, 2000, 2000 surprisingly]",
+            "comment_count": 21,
+            "affinity_score": 0.4334448575973511
+        },
+        {
+            "cluster_id": 2,
+            "persona_summary": "Persona Cluster 2: [General]",
+            "comment_count": 10,
+            "affinity_score": 0.4312075078487396
+        },
+        {
+            "cluster_id": 6,
+            "persona_summary": "Persona Cluster 6: [agree, early totally, totally, totally agree, early imho]",
+            "comment_count": 16,
+            "affinity_score": 0.41997861862182617
+        },
+        {
+            "cluster_id": 11,
+            "persona_summary": "Persona Cluster 11: [action, action pacific, connection, finding, finding human]",
+            "comment_count": 13,
+            "affinity_score": 0.4192957878112793
+        },
+        {
+            "cluster_id": 26,
+            "persona_summary": "Persona Cluster 26: [backstory, backstory heartbreaking, characters, characters transformers, heartbreaking]",
+            "comment_count": 12,
+            "affinity_score": 0.38538938760757446
+        },
+        {
+            "cluster_id": 31,
+            "persona_summary": "Persona Cluster 31: [transformers, transformers plot, watch transformers, 2000, 2000 plot]",
+            "comment_count": 16,
+            "affinity_score": 0.3846326470375061
+        },
+        {
+            "cluster_id": 9,
+            "persona_summary": "Persona Cluster 9: [transformers, want transformers, imho, 2000, godzilla]",
+            "comment_count": 18,
+            "affinity_score": 0.38238170742988586
+        },
+        {
+            "cluster_id": 32,
+            "persona_summary": "Persona Cluster 32: [just, 2000 pure, care, care plot, don]",
+            "comment_count": 24,
+            "affinity_score": 0.36857256293296814
+        },
+        {
+            "cluster_id": 24,
+            "persona_summary": "Persona Cluster 24: [brrrrr, haha, haha robot, robot, robot brrrrr]",
+            "comment_count": 28,
+            "affinity_score": 0.3622257113456726
+        },
+        {
+            "cluster_id": 17,
+            "persona_summary": "Persona Cluster 17: [flick transformers, transformers, transformers gets, 2000, 2000 gets]",
+            "comment_count": 12,
+            "affinity_score": 0.3594666123390198
+        },
+        {
+            "cluster_id": 14,
+            "persona_summary": "Persona Cluster 14: [building, fascinating, fascinating look, genuinely, genuinely fascinating]",
+            "comment_count": 24,
+            "affinity_score": 0.3212192952632904
+        },
+        {
+            "cluster_id": 13,
+            "persona_summary": "Persona Cluster 13: [pacific, pacific rim, rim, rim imax, saw pacific]",
+            "comment_count": 14,
+            "affinity_score": 0.32092538475990295
+        },
+        {
+            "cluster_id": 30,
+            "persona_summary": "Persona Cluster 30: [absolutely, absolutely goated, action, action sequences, goated]",
+            "comment_count": 23,
+            "affinity_score": 0.3009532392024994
+        },
+        {
+            "cluster_id": 0,
+            "persona_summary": "Persona Cluster 0: [just, just saying, lighting just, saying, imho]",
+            "comment_count": 24,
+            "affinity_score": 0.29385265707969666
+        },
+        {
+            "cluster_id": 12,
+            "persona_summary": "Persona Cluster 12: [imho, movie imho, agree, just, just saying]",
+            "comment_count": 10,
+            "affinity_score": 0.2890525460243225
+        },
+        {
+            "cluster_id": 16,
+            "persona_summary": "Persona Cluster 16: [scene transformers, transformers, transformers broke, pacific, pacific rim]",
+            "comment_count": 17,
+            "affinity_score": 0.28579071164131165
+        },
+        {
+            "cluster_id": 7,
+            "persona_summary": "Persona Cluster 7: [jojo, jojo reference, reference, 2000, godzilla]",
+            "comment_count": 29,
+            "affinity_score": 0.2802576422691345
+        },
+        {
+            "cluster_id": 29,
+            "persona_summary": "Persona Cluster 29: [analyze, analyze mechanical, engineering, engineering represented, grounded]",
+            "comment_count": 13,
+            "affinity_score": 0.2801004648208618
+        },
+        {
+            "cluster_id": 5,
+            "persona_summary": "Persona Cluster 5: [ascended imho, imho]",
+            "comment_count": 10,
+            "affinity_score": 0.2790448069572449
+        },
+        {
+            "cluster_id": 8,
+            "persona_summary": "Persona Cluster 8: [jojo, jojo reference, reference, rim jojo, backstory]",
+            "comment_count": 15,
+            "affinity_score": 0.2699412405490875
+        },
+        {
+            "cluster_id": 28,
+            "persona_summary": "Persona Cluster 28: [2000, 2000 relationship, godzilla, godzilla 2000, pacific]",
+            "comment_count": 18,
+            "affinity_score": 0.26982730627059937
+        },
+        {
+            "cluster_id": 20,
+            "persona_summary": "Persona Cluster 20: [bro transformers, transformers, transformers literal, explosions just, just saying]",
+            "comment_count": 18,
+            "affinity_score": 0.2542971670627594
+        },
+        {
+            "cluster_id": 10,
+            "persona_summary": "Persona Cluster 10: [emotionally imho, imho, agree, emotionally totally, totally]",
+            "comment_count": 11,
+            "affinity_score": 0.23876792192459106
+        },
+        {
+            "cluster_id": 23,
+            "persona_summary": "Persona Cluster 23: [game, game instead, instead, new, new zelda]",
+            "comment_count": 13,
+            "affinity_score": 0.23708277940750122
+        },
+        {
+            "cluster_id": 19,
+            "persona_summary": "Persona Cluster 19: [transformers, transformers makes, watching transformers, pacific, pacific rim]",
+            "comment_count": 25,
+            "affinity_score": 0.21525105834007263
+        },
+        {
+            "cluster_id": 22,
+            "persona_summary": "Persona Cluster 22: [just, just saying, pain just, saying]",
+            "comment_count": 11,
+            "affinity_score": 0.20879320800304413
+        },
+        {
+            "cluster_id": 18,
+            "persona_summary": "Persona Cluster 18: [perfect, perfect score, rate, score, 10]",
+            "comment_count": 30,
+            "affinity_score": 0.1966608166694641
+        },
+        {
+            "cluster_id": 3,
+            "persona_summary": "Persona Cluster 3: [just, just saying, saying, society just, imho]",
+            "comment_count": 19,
+            "affinity_score": 0.11341770738363266
+        },
+        {
+            "cluster_id": 25,
+            "persona_summary": "Persona Cluster 25: [sigh, car, car keys, keys, keys today]",
+            "comment_count": 16,
+            "affinity_score": 0.09556375443935394
+        },
+        {
+            "cluster_id": 4,
+            "persona_summary": "Persona Cluster 4: [agree, designs totally, totally, totally agree]",
+            "comment_count": 10,
+            "affinity_score": 0.07575235515832901
+        },
+        {
+            "cluster_id": 1,
+            "persona_summary": "Persona Cluster 1: [imho, nuke imho, agree, nuke totally, totally]",
+            "comment_count": 10,
+            "affinity_score": 0.04109662026166916
+        }
+    ]
+}

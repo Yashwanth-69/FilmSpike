@@ -1,0 +1,102 @@
+{
+    "visual": {
+        "object_categories": [
+            "robot",
+            "sparring bot",
+            "G2",
+            "shadow function",
+            "remote control",
+            "voice recognition",
+            "hydraulic fluid",
+            "cooling fan",
+            "power cell",
+            "boxing ring",
+            "arena",
+            "headset"
+        ],
+        "scene_categories": [
+            "county fair",
+            "underground fight club",
+            "roadside motel",
+            "junkyard",
+            "high-tech arena",
+            "gym",
+            "Detroit cityscape",
+            "abandoned factory",
+            "championship stage"
+        ]
+    },
+    "custom_actions": [
+        "shadow boxing",
+        "dancing",
+        "mid-air punch",
+        "uppercut",
+        "robot malfunction",
+        "remote piloting",
+        "repairing bot",
+        "father-son bonding",
+        "crowd cheering",
+        "debris flying"
+    ],
+    "custom_themes": [
+        "redemption",
+        "father-son relationship",
+        "underdog story",
+        "human vs machine",
+        "second chances",
+        "technology as a mirror",
+        "resilience",
+        "spirit of competition"
+    ],
+    "emotion": {
+        "categories": [
+            "angry",
+            "disgust",
+            "fear",
+            "happy",
+            "neutral",
+            "sad",
+            "surprise"
+        ]
+    },
+    "zero_shot": {
+        "confidence_threshold": 0.25,
+        "top_k_primary_concepts": 5,
+        "seed_concepts": [
+            "giant mecha",
+            "apocalyptic destruction",
+            "neon lit city",
+            "stormy ocean",
+            "military command center",
+            "pilots in sync",
+            "glowing energy weapons",
+            "massive organic armor"
+        ],
+        "concept_groups": {
+            "technology": [
+                "mecha",
+                "armor",
+                "energy",
+                "weapons"
+            ],
+            "environment": [
+                "city",
+                "ocean",
+                "storm",
+                "destruction"
+            ]
+        },
+        "expansion_rules": {
+            "mecha": [
+                "jaeger",
+                "robot",
+                "machine"
+            ],
+            "armor": [
+                "kaiju",
+                "monster",
+                "beast"
+            ]
+        }
+    }
+}
