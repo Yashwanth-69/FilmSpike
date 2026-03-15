@@ -352,3 +352,158 @@ button {
     border-radius: 4px;
     color: #a78bfa;
 }
+
+/* ========== CRAZIFIED SUBREDDIT HERO ========== */
+.subreddit-hero {
+    position: relative;
+    margin-bottom: 2.5rem;
+    padding: 2.5rem 2rem;
+    text-align: center;
+    border-radius: 20px;
+    overflow: hidden;
+    background: linear-gradient(135deg, rgba(99, 102, 241, 0.2) 0%, rgba(168, 85, 247, 0.2) 50%, rgba(236, 72, 153, 0.2) 100%);
+    border: 2px solid rgba(168, 85, 247, 0.5);
+    box-shadow: 0 0 60px rgba(168, 85, 247, 0.3), inset 0 0 40px rgba(99, 102, 241, 0.1);
+    animation: heroPulse 3s ease-in-out infinite;
+}
+
+.subreddit-hero-glow {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 300px;
+    height: 300px;
+    background: radial-gradient(circle, rgba(168, 85, 247, 0.4) 0%, transparent 70%);
+    animation: glowPulse 2s ease-in-out infinite;
+    pointer-events: none;
+}
+
+@keyframes heroPulse {
+    0%, 100% { box-shadow: 0 0 60px rgba(168, 85, 247, 0.3), inset 0 0 40px rgba(99, 102, 241, 0.1); }
+    50% { box-shadow: 0 0 90px rgba(168, 85, 247, 0.5), inset 0 0 60px rgba(99, 102, 241, 0.15); }
+}
+
+@keyframes glowPulse {
+    0%, 100% { opacity: 0.5; transform: translate(-50%, -50%) scale(1); }
+    50% { opacity: 0.8; transform: translate(-50%, -50%) scale(1.2); }
+}
+
+.subreddit-hero-label {
+    position: relative;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.35em;
+    text-transform: uppercase;
+    color: #a78bfa;
+    margin-bottom: 0.75rem;
+    text-shadow: 0 0 20px rgba(167, 139, 250, 0.8);
+    animation: labelShimmer 2s ease-in-out infinite;
+}
+
+@keyframes labelShimmer {
+    0%, 100% { opacity: 0.9; }
+    50% { opacity: 1; text-shadow: 0 0 30px rgba(167, 139, 250, 1); }
+}
+
+.subreddit-hero-name {
+    position: relative;
+    font-size: clamp(2.5rem, 8vw, 4.5rem);
+    font-weight: 800;
+    background: linear-gradient(90deg, #60a5fa, #a78bfa, #f472b6, #60a5fa);
+    background-size: 300% 100%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    animation: gradientShift 4s ease infinite;
+    text-shadow: 0 0 80px rgba(168, 85, 247, 0.6);
+    filter: drop-shadow(0 0 30px rgba(168, 85, 247, 0.5));
+    letter-spacing: -0.02em;
+}
+
+@keyframes gradientShift {
+    0%, 100% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+}
+
+.subreddit-hero-tagline {
+    position: relative;
+    margin-top: 0.5rem;
+    font-size: 1rem;
+    color: var(--text-secondary);
+    font-weight: 500;
+}
+
+/* ========== SUBREDDIT PILLS IN CARDS (clear, impactful) ========== */
+.subreddit-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    margin-top: 1rem;
+}
+
+.subreddit-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: 700;
+    background: linear-gradient(135deg, rgba(99, 102, 241, 0.3), rgba(168, 85, 247, 0.3));
+    border: 2px solid rgba(168, 85, 247, 0.6);
+    border-radius: 999px;
+    color: #e0e7ff;
+    text-shadow: 0 0 15px rgba(168, 85, 247, 0.5);
+    box-shadow: 0 0 20px rgba(168, 85, 247, 0.2);
+    transition: all 0.3s ease;
+}
+
+.subreddit-pill:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 30px rgba(168, 85, 247, 0.4);
+    border-color: #a78bfa;
+}
+
+.subreddit-pill i {
+    font-size: 0.9rem;
+    color: #a78bfa;
+}
+
+.subreddit-pill.primary {
+    background: linear-gradient(135deg, rgba(236, 72, 153, 0.4), rgba(168, 85, 247, 0.4));
+    border-color: rgba(236, 72, 153, 0.8);
+    font-size: 1.1rem;
+    padding: 0.6rem 1.2rem;
+}
+
+/* ========== CRAZIFIED ENHANCEMENTS ========== */
+header h1 {
+    animation: headerGlow 5s ease-in-out infinite;
+}
+
+@keyframes headerGlow {
+    0%, 100% { filter: brightness(1); }
+    50% { filter: brightness(1.15); }
+}
+
+.glass-panel:hover {
+    box-shadow: 0 25px 60px -12px rgba(0, 0, 0, 0.6), 0 0 40px rgba(99, 102, 241, 0.08);
+}
+
+.card {
+    animation: cardFloat 0.5s ease-out;
+}
+
+@keyframes cardFloat {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.btn-primary {
+    animation: btnPulse 6s ease-in-out infinite;
+}
+
+@keyframes btnPulse {
+    0%, 100% { box-shadow: 0 4px 14px var(--accent-glow); }
+    50% { box-shadow: 0 4px 25px rgba(59, 130, 246, 0.6); }
+}

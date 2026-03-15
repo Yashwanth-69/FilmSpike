@@ -16,6 +16,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const btnPersonas = document.getElementById('btn-personas');
     const personaResults = document.getElementById('persona-results');
     const personaGrid = document.getElementById('persona-grid');
+    const subredditHero = document.getElementById('subreddit-hero');
+    const subredditHeroName = document.getElementById('subreddit-hero-name');
 
     // Check for existing fingerprint on page load
     async function checkExistingState() {
@@ -179,11 +181,31 @@ document.addEventListener('DOMContentLoaded', () => {
             if (response.ok) {
                 personaGrid.innerHTML = ''; // Clear old
 
+                // Parse and display TOP subreddit in hero (from #1 persona)
+                const topPersona = data.personas[0];
+                const topSubreddits = topPersona?.demographics?.subreddits
+                    ? String(topPersona.demographics.subreddits).split(',').map(s => s.trim()).filter(Boolean)
+                    : [];
+                const finalSubreddit = topSubreddits[0] || 'r/movies';
+
+                if (finalSubreddit) {
+                    subredditHeroName.textContent = finalSubreddit.startsWith('r/') ? finalSubreddit : 'r/' + finalSubreddit;
+                    subredditHero.classList.remove('hidden');
+                }
+
                 data.personas.forEach((p, idx) => {
                     const card = document.createElement('div');
                     card.className = 'card';
                     // The first 3 are primary matches, the rest get dimmer
                     if (idx > 2) card.style.opacity = "0.6";
+
+                    const subredditStr = p.demographics?.subreddits || '';
+                    const subredditList = subredditStr.split(',').map(s => s.trim()).filter(Boolean);
+                    const subredditPillsHtml = subredditList.map((sr, i) => {
+                        const displayName = sr.startsWith('r/') ? sr : 'r/' + sr;
+                        const isPrimary = idx === 0 && i === 0;
+                        return `<span class="subreddit-pill ${isPrimary ? 'primary' : ''}"><i class="fa-brands fa-reddit"></i>${displayName}</span>`;
+                    }).join('');
 
                     card.innerHTML = `
                         <h4>${p.persona}</h4>
@@ -191,9 +213,8 @@ document.addEventListener('DOMContentLoaded', () => {
                         <div class="meta"><i class="fa-solid fa-users"></i> Size: ${p.size} Sampled Responses</div>
                         
                         <div style="margin-top: 1rem; padding-top: 1rem; border-top: 1px solid var(--panel-border)">
-                            <ul>
-                                <li><strong>Target Subreddits:</strong> <span style="color:var(--accent);">${p.demographics.subreddits}</span></li>
-                            </ul>
+                            <strong style="display:block; margin-bottom: 0.5rem; color: var(--text-secondary);">Target Subreddits</strong>
+                            <div class="subreddit-pills">${subredditPillsHtml || '<span class="subreddit-pill">N/A</span>'}</div>
                         </div>
 
                         <div class="tag-container">
