@@ -1,4 +1,4 @@
-# Film Intelligence Pipeline 🎬🧠
+# Film Intelligence Pipeline
 
 A full-stack, AI-powered web application for deep analysis of movie trailers, audience demographics, and film similarity matching.
 
